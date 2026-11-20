@@ -1,0 +1,2438 @@
+{
+ "references": {
+  "watson2015": {
+   "authors": "Watson NF, Badr MS, Belenky G, et al.",
+   "title": "Recommended Amount of Sleep for a Healthy Adult: A Joint Consensus Statement of the American Academy of Sleep Medicine and Sleep Research Society",
+   "journal": "Sleep",
+   "year": 2015,
+   "citation": "38(6):843-844",
+   "pmid": "26039963",
+   "doi": "10.5665/sleep.4716"
+  },
+  "ohayon2017": {
+   "authors": "Ohayon M, Wickwire EM, Hirshkowitz M, et al.",
+   "title": "National Sleep Foundation's sleep quality recommendations: first report",
+   "journal": "Sleep Health",
+   "year": 2017,
+   "citation": "3(1):6-19",
+   "pmid": "28346153",
+   "doi": "10.1016/j.sleh.2016.11.006"
+  },
+  "ohayon2004": {
+   "authors": "Ohayon MM, Carskadon MA, Guilleminault C, Vitiello MV",
+   "title": "Meta-analysis of quantitative sleep parameters from childhood to old age in healthy individuals: developing normative sleep values across the human lifespan",
+   "journal": "Sleep",
+   "year": 2004,
+   "citation": "27(7):1255-1273",
+   "pmid": "15586779",
+   "doi": "10.1093/sleep/27.7.1255"
+  },
+  "windred2024": {
+   "authors": "Windred DP, Burns AC, Lane JM, et al.",
+   "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration: A prospective cohort study",
+   "journal": "Sleep",
+   "year": 2024,
+   "citation": "47(1):zsad253",
+   "pmid": "37738616",
+   "doi": "10.1093/sleep/zsad253"
+  },
+  "phillips2017": {
+   "authors": "Phillips AJK, Clerx WM, O'Brien CS, et al.",
+   "title": "Irregular sleep/wake patterns are associated with poorer academic performance and delayed circadian and sleep/wake timing",
+   "journal": "Scientific Reports",
+   "year": 2017,
+   "citation": "7(1):3216",
+   "pmid": "28607474",
+   "doi": "10.1038/s41598-017-03171-4"
+  },
+  "wittmann2006": {
+   "authors": "Wittmann M, Dinich J, Merrow M, Roenneberg T",
+   "title": "Social jetlag: misalignment of biological and social time",
+   "journal": "Chronobiology International",
+   "year": 2006,
+   "citation": "23(1-2):497-509",
+   "pmid": "16687322",
+   "doi": "10.1080/07420520500545979"
+  },
+  "roenneberg2012": {
+   "authors": "Roenneberg T, Allebrandt KV, Merrow M, Vetter C",
+   "title": "Social jetlag and obesity",
+   "journal": "Current Biology",
+   "year": 2012,
+   "citation": "22(10):939-943",
+   "pmid": "22578422",
+   "doi": "10.1016/j.cub.2012.03.038"
+  },
+  "auger2015": {
+   "authors": "Auger RR, Burgess HJ, Emens JS, et al.",
+   "title": "Clinical Practice Guideline for the Treatment of Intrinsic Circadian Rhythm Sleep-Wake Disorders: ASWPD, DSWPD, N24SWD, and ISWRD. An Update for 2015: An American Academy of Sleep Medicine Clinical Practice Guideline",
+   "journal": "Journal of Clinical Sleep Medicine",
+   "year": 2015,
+   "citation": "11(10):1199-1236",
+   "pmid": "26414986",
+   "doi": "10.5664/jcsm.5100"
+  },
+  "sack2007": {
+   "authors": "Sack RL, Auckley D, Auger RR, et al.",
+   "title": "Circadian rhythm sleep disorders: part II, advanced sleep phase disorder, delayed sleep phase disorder, free-running disorder, and irregular sleep-wake rhythm. An American Academy of Sleep Medicine review",
+   "journal": "Sleep",
+   "year": 2007,
+   "citation": "30(11):1484-1501",
+   "pmid": "18041481",
+   "doi": "10.1093/sleep/30.11.1484"
+  },
+  "gradisar2013": {
+   "authors": "Gradisar M, Crowley SJ",
+   "title": "Delayed sleep phase disorder in youth",
+   "journal": "Current Opinion in Psychiatry",
+   "year": 2013,
+   "citation": "26(6):580-585",
+   "pmid": "24060912",
+   "doi": "10.1097/YCO.0b013e328365a1d4"
+  },
+  "yamada2015": {
+   "authors": "Yamada T, Hara K, Shojima N, Yamauchi T, Kadowaki T",
+   "title": "Daytime Napping and the Risk of Cardiovascular Disease and All-Cause Mortality: A Prospective Study and Dose-Response Meta-Analysis",
+   "journal": "Sleep",
+   "year": 2015,
+   "citation": "38(12):1945-1953",
+   "pmid": "26158892",
+   "doi": "10.5665/sleep.5246"
+  },
+  "werth1996": {
+   "authors": "Werth E, Dijk DJ, Achermann P, Borbély AA",
+   "title": "Dynamics of the sleep EEG after an early evening nap: experimental data and simulations",
+   "journal": "American Journal of Physiology",
+   "year": 1996,
+   "citation": "271(3 Pt 2):R501-R510",
+   "pmid": "8853369",
+   "doi": "10.1152/ajpregu.1996.271.3.R501"
+  },
+  "irish2015": {
+   "authors": "Irish LA, Kline CE, Gunn HE, Buysse DJ, Hall MH",
+   "title": "The role of sleep hygiene in promoting public health: A review of empirical evidence",
+   "journal": "Sleep Medicine Reviews",
+   "year": 2015,
+   "citation": "22:23-36",
+   "pmid": "25454674",
+   "doi": "10.1016/j.smrv.2014.10.001"
+  },
+  "kapur2017": {
+   "authors": "Kapur VK, Auckley DH, Chowdhuri S, et al.",
+   "title": "Clinical Practice Guideline for Diagnostic Testing for Adult Obstructive Sleep Apnea: An American Academy of Sleep Medicine Clinical Practice Guideline",
+   "journal": "Journal of Clinical Sleep Medicine",
+   "year": 2017,
+   "citation": "13(3):479-504",
+   "pmid": "28162150",
+   "doi": "10.5664/jcsm.6506"
+  },
+  "chung2012": {
+   "authors": "Chung F, Liao P, Elsaid H, Islam S, Shapiro CM, Sun Y",
+   "title": "Oxygen desaturation index from nocturnal oximetry: a sensitive and specific tool to detect sleep-disordered breathing in surgical patients",
+   "journal": "Anesthesia & Analgesia",
+   "year": 2012,
+   "citation": "114(5):993-1000",
+   "pmid": "22366847",
+   "doi": "10.1213/ANE.0b013e318248f4f5"
+  },
+  "gries1996": {
+   "authors": "Gries RE, Brooks LJ",
+   "title": "Normal oxyhemoglobin saturation during sleep. How low does it go?",
+   "journal": "Chest",
+   "year": 1996,
+   "citation": "110(6):1489-1492",
+   "pmid": "8989066",
+   "doi": "10.1378/chest.110.6.1489"
+  },
+  "guilleminault1993": {
+   "authors": "Guilleminault C, Stoohs R, Clerk A, Cetel M, Maistros P",
+   "title": "A cause of excessive daytime sleepiness. The upper airway resistance syndrome",
+   "journal": "Chest",
+   "year": 1993,
+   "citation": "104(3):781-787",
+   "pmid": "8365289",
+   "doi": "10.1378/chest.104.3.781"
+  },
+  "azarbarzin2021": {
+   "authors": "Azarbarzin A, Sands SA, Younes M, et al.",
+   "title": "The Sleep Apnea-Specific Pulse-Rate Response Predicts Cardiovascular Morbidity and Mortality",
+   "journal": "American Journal of Respiratory and Critical Care Medicine",
+   "year": 2021,
+   "citation": "203(12):1546-1555",
+   "pmid": "33406013",
+   "doi": "10.1164/rccm.202010-3900OC"
+  },
+  "azarbarzin2015": {
+   "authors": "Azarbarzin A, Ostrowski M, Younes M, et al.",
+   "title": "Arousal Responses during Overnight Polysomnography and their Reproducibility in Healthy Young Adults",
+   "journal": "Sleep",
+   "year": 2015,
+   "citation": "38(8):1313-1321",
+   "pmid": "25581917",
+   "doi": "10.5665/sleep.4916"
+  },
+  "sforza2000": {
+   "authors": "Sforza E, Jouny C, Ibanez V",
+   "title": "Cardiac activation during arousal in humans: further evidence for hierarchy in the arousal response",
+   "journal": "Clinical Neurophysiology",
+   "year": 2000,
+   "citation": "111(9):1611-1619",
+   "pmid": "10964073",
+   "doi": "10.1016/s1388-2457(00)00363-1"
+  },
+  "zhang2016": {
+   "authors": "Zhang D, Shen X, Qi X",
+   "title": "Resting heart rate and all-cause and cardiovascular mortality in the general population: a meta-analysis",
+   "journal": "CMAJ",
+   "year": 2016,
+   "citation": "188(3):E53-E63",
+   "pmid": "26598376",
+   "doi": "10.1503/cmaj.150535"
+  },
+  "nicolo2020": {
+   "authors": "Nicolò A, Massaroni C, Schena E, Sacchetti M",
+   "title": "The Importance of Respiratory Rate Monitoring: From Healthcare to Sport and Exercise",
+   "journal": "Sensors (Basel)",
+   "year": 2020,
+   "citation": "20(21):6396",
+   "pmid": "33182463",
+   "doi": "10.3390/s20216396"
+  },
+  "cretikos2008": {
+   "authors": "Cretikos MA, Bellomo R, Hillman K, Chen J, Finfer S, Flabouris A",
+   "title": "Respiratory rate: the neglected vital sign",
+   "journal": "Medical Journal of Australia",
+   "year": 2008,
+   "citation": "188(11):657-659",
+   "pmid": "18513176",
+   "doi": "10.5694/j.1326-5377.2008.tb01825.x"
+  },
+  "douglas1982": {
+   "authors": "Douglas NJ, White DP, Pickett CK, Weil JV, Zwillich CW",
+   "title": "Respiration during sleep in normal man",
+   "journal": "Thorax",
+   "year": 1982,
+   "citation": "37(11):840-844",
+   "pmid": "7164002",
+   "doi": "10.1136/thx.37.11.840"
+  },
+  "chinoy2021": {
+   "authors": "Chinoy ED, Cuellar JA, Huwa KE, et al.",
+   "title": "Performance of seven consumer sleep-tracking devices compared with polysomnography",
+   "journal": "Sleep",
+   "year": 2021,
+   "citation": "44(5):zsaa291",
+   "pmid": "33378539",
+   "doi": "10.1093/sleep/zsaa291"
+  },
+  "dezambotti2018": {
+   "authors": "de Zambotti M, Goldstone A, Claudatos S, Colrain IM, Baker FC",
+   "title": "A validation study of Fitbit Charge 2 compared with polysomnography in adults",
+   "journal": "Chronobiology International",
+   "year": 2018,
+   "citation": "35(4):465-476",
+   "pmid": "29235907",
+   "doi": "10.1080/07420528.2017.1413578"
+  },
+  "haghayegh2019": {
+   "authors": "Haghayegh S, Khoshnevis S, Smolensky MH, Diller KR, Castriotta RJ",
+   "title": "Accuracy of Wristband Fitbit Models in Assessing Sleep: Systematic Review and Meta-Analysis",
+   "journal": "Journal of Medical Internet Research",
+   "year": 2019,
+   "citation": "21(11):e16273",
+   "pmid": "31778122",
+   "doi": "10.2196/16273"
+  },
+  "hermans2024": {
+   "authors": "Hermans F, Arents E, Blondeel A, et al.",
+   "title": "Validity of a Consumer-Based Wearable to Measure Clinical Parameters in Patients With Chronic Obstructive Pulmonary Disease and Healthy Controls: Observational Study",
+   "journal": "JMIR mHealth and uHealth",
+   "year": 2024,
+   "citation": "12:e56027",
+   "pmid": "39504450",
+   "doi": "10.2196/56027"
+  },
+  "fitbit_spo2_docs": {
+   "authors": "Fitbit (Google)",
+   "title": "Web API reference: Get SpO2 Intraday by Date",
+   "journal": "Fitbit developer documentation",
+   "year": 2026,
+   "url": "https://dev.fitbit.com/build/reference/web-api/intraday/get-spo2-intraday-by-date/"
+  },
+  "hirshkowitz2015": {
+   "authors": "Hirshkowitz M, Whiton K, Albert SM, et al.",
+   "title": "National Sleep Foundation's sleep time duration recommendations: methodology and results summary",
+   "journal": "Sleep Health",
+   "year": 2015,
+   "citation": "1(1):40-43",
+   "pmid": "29073412",
+   "doi": "10.1016/j.sleh.2014.12.010"
+  },
+  "paruthi2016": {
+   "authors": "Paruthi S, Brooks LJ, D'Ambrosio C, et al.",
+   "title": "Recommended Amount of Sleep for Pediatric Populations: A Consensus Statement of the American Academy of Sleep Medicine",
+   "journal": "Journal of Clinical Sleep Medicine",
+   "year": 2016,
+   "citation": "12(6):785-786",
+   "pmid": "27250809",
+   "doi": "10.5664/jcsm.5866"
+  },
+  "hayano2011": {
+   "authors": "Hayano J, Watanabe E, Saito Y, et al.",
+   "title": "Screening for obstructive sleep apnea by cyclic variation of heart rate",
+   "journal": "Circulation: Arrhythmia and Electrophysiology",
+   "year": 2011,
+   "citation": "4(1):64-72",
+   "pmid": "21075771",
+   "doi": "10.1161/CIRCEP.110.958009"
+  },
+  "hayano2020": {
+   "authors": "Hayano J, Yamamoto H, Nonaka I, et al.",
+   "title": "Quantitative detection of sleep apnea with wearable watch device",
+   "journal": "PLOS ONE",
+   "year": 2020,
+   "citation": "15(11):e0237279",
+   "pmid": "33166293",
+   "doi": "10.1371/journal.pone.0237279"
+  },
+  "hayano2017": {
+   "authors": "Hayano J, Yasuma F, Watanabe E, et al.",
+   "title": "Blunted cyclic variation of heart rate predicts mortality risk in post-myocardial infarction, end-stage renal disease, and chronic heart failure patients",
+   "journal": "Europace",
+   "year": 2017,
+   "citation": "19(8):1392-1400",
+   "pmid": "27789562",
+   "doi": "10.1093/europace/euw222"
+  },
+  "hayano2022": {
+   "authors": "Hayano J, Yuda E",
+   "title": "Night-to-night variability of sleep apnea detected by cyclic variation of heart rate during long-term continuous ECG monitoring",
+   "journal": "Annals of Noninvasive Electrocardiology",
+   "year": 2022,
+   "citation": "27(2):e12901",
+   "pmid": "34661952",
+   "doi": "10.1111/anec.12901"
+  },
+  "guilleminault1984": {
+   "authors": "Guilleminault C, Connolly S, Winkle R, Melvin K, Tilkian A",
+   "title": "Cyclical variation of the heart rate in sleep apnoea syndrome. Mechanisms, and usefulness of 24 h electrocardiography as a screening technique",
+   "journal": "Lancet",
+   "year": 1984,
+   "citation": "1(8369):126-131",
+   "pmid": "6140442",
+   "doi": "10.1016/s0140-6736(84)90062-x"
+  },
+  "natarajan2020hrv": {
+   "authors": "Natarajan A, Pantelopoulos A, Emir-Farinas H, Natarajan P",
+   "title": "Heart rate variability with photoplethysmography in 8 million individuals: a cross-sectional study",
+   "journal": "The Lancet Digital Health",
+   "year": 2020,
+   "citation": "2(12):e650-e657",
+   "pmid": "33328029",
+   "doi": "10.1016/S2589-7500(20)30246-6"
+  },
+  "quer2020": {
+   "authors": "Quer G, Gouda P, Galarnyk M, Topol EJ, Steinhubl SR",
+   "title": "Inter- and intraindividual variability in daily resting heart rate and its associations with age, sex, sleep, BMI, and time of year: Retrospective, longitudinal cohort study of 92,457 adults",
+   "journal": "PLOS ONE",
+   "year": 2020,
+   "citation": "15(2):e0227709",
+   "pmid": "32023264",
+   "doi": "10.1371/journal.pone.0227709"
+  },
+  "mishra2020": {
+   "authors": "Mishra T, Wang M, Metwally AA, et al.",
+   "title": "Pre-symptomatic detection of COVID-19 from smartwatch data",
+   "journal": "Nature Biomedical Engineering",
+   "year": 2020,
+   "citation": "4(12):1208-1220",
+   "pmid": "33208926",
+   "doi": "10.1038/s41551-020-00640-6"
+  },
+  "natarajan2020covid": {
+   "authors": "Natarajan A, Su HW, Heneghan C",
+   "title": "Assessment of physiological signs associated with COVID-19 measured using wearable devices",
+   "journal": "npj Digital Medicine",
+   "year": 2020,
+   "citation": "3:156",
+   "pmid": "33299095",
+   "doi": "10.1038/s41746-020-00363-7"
+  },
+  "natarajan2021": {
+   "authors": "Natarajan A, Su HW, Heneghan C, et al.",
+   "title": "Measurement of respiratory rate using wearable devices and applications to COVID-19 detection",
+   "journal": "npj Digital Medicine",
+   "year": 2021,
+   "citation": "4:136",
+   "pmid": "34526602",
+   "doi": "10.1038/s41746-021-00493-6"
+  },
+  "pietila2018": {
+   "authors": "Pietilä J, Helander E, Korhonen I, Myllymäki T, Kujala UM, Lindholm H",
+   "title": "Acute Effect of Alcohol Intake on Cardiovascular Autonomic Regulation During the First Hours of Sleep in a Large Real-World Sample of Finnish Employees: Observational Study",
+   "journal": "JMIR Mental Health",
+   "year": 2018,
+   "citation": "5(1):e23",
+   "pmid": "29549064",
+   "doi": "10.2196/mental.9519"
+  },
+  "smarr2020": {
+   "authors": "Smarr BL, Aschbacher K, Fisher SM, et al.",
+   "title": "Feasibility of continuous fever monitoring using wearable devices",
+   "journal": "Scientific Reports",
+   "year": 2020,
+   "citation": "10(1):21640",
+   "pmid": "33318528",
+   "doi": "10.1038/s41598-020-78355-6"
+  },
+  "chalmers2014": {
+   "authors": "Chalmers JA, Quintana DS, Abbott MJ, Kemp AH",
+   "title": "Anxiety Disorders are Associated with Reduced Heart Rate Variability: A Meta-Analysis",
+   "journal": "Frontiers in Psychiatry",
+   "year": 2014,
+   "citation": "5:80",
+   "pmid": "25071612",
+   "doi": "10.3389/fpsyt.2014.00080"
+  },
+  "alvaro2013": {
+   "authors": "Alvaro PK, Roberts RM, Harris JK",
+   "title": "A Systematic Review Assessing Bidirectionality between Sleep Disturbances, Anxiety, and Depression",
+   "journal": "Sleep",
+   "year": 2013,
+   "citation": "36(7):1059-1068",
+   "pmid": "23814343",
+   "doi": "10.5665/sleep.2810"
+  },
+  "baglioni2011": {
+   "authors": "Baglioni C, Battagliese G, Feige B, et al.",
+   "title": "Insomnia as a predictor of depression: a meta-analytic evaluation of longitudinal epidemiological studies",
+   "journal": "Journal of Affective Disorders",
+   "year": 2011,
+   "citation": "135(1-3):10-19",
+   "pmid": "21300408",
+   "doi": "10.1016/j.jad.2011.01.011"
+  },
+  "au2017": {
+   "authors": "Au J, Reece J",
+   "title": "The relationship between chronotype and depressive symptoms: A meta-analysis",
+   "journal": "Journal of Affective Disorders",
+   "year": 2017,
+   "citation": "218:93-104",
+   "pmid": "28463712",
+   "doi": "10.1016/j.jad.2017.04.021"
+  },
+  "daghlas2021": {
+   "authors": "Daghlas I, Lane JM, Saxena R, Vetter C",
+   "title": "Genetically Proxied Diurnal Preference, Sleep Timing, and Risk of Major Depressive Disorder",
+   "journal": "JAMA Psychiatry",
+   "year": 2021,
+   "citation": "78(8):903-910",
+   "pmid": "34037671",
+   "doi": "10.1001/jamapsychiatry.2021.0959"
+  },
+  "fang2021": {
+   "authors": "Fang Y, Forger DB, Frank E, Sen S, Goldstein C",
+   "title": "Day-to-day variability in sleep parameters and depression risk: a prospective cohort study of training physicians",
+   "journal": "npj Digital Medicine",
+   "year": 2021,
+   "citation": "4(1):28",
+   "pmid": "33603132",
+   "doi": "10.1038/s41746-021-00400-z"
+  },
+  "vandongen2003": {
+   "authors": "Van Dongen HPA, Maislin G, Mullington JM, Dinges DF",
+   "title": "The cumulative cost of additional wakefulness: dose-response effects on neurobehavioral functions and sleep physiology from chronic sleep restriction and total sleep deprivation",
+   "journal": "Sleep",
+   "year": 2003,
+   "citation": "26(2):117-126",
+   "pmid": "12683469",
+   "doi": "10.1093/sleep/26.2.117"
+  },
+  "bijlenga2019": {
+   "authors": "Bijlenga D, Vollebregt MA, Kooij JJS, Arns M",
+   "title": "The role of the circadian system in the etiology and pathophysiology of ADHD: time to redefine ADHD?",
+   "journal": "Attention Deficit and Hyperactivity Disorders",
+   "year": 2019,
+   "citation": "11(1):5-19",
+   "pmid": "30927228",
+   "doi": "10.1007/s12402-018-0271-z"
+  },
+  "huang2020": {
+   "authors": "Huang T, Mariani S, Redline S",
+   "title": "Sleep Irregularity and Risk of Cardiovascular Events: The Multi-Ethnic Study of Atherosclerosis",
+   "journal": "Journal of the American College of Cardiology",
+   "year": 2020,
+   "citation": "75(9):991-999",
+   "pmid": "32138974",
+   "doi": "10.1016/j.jacc.2019.12.054"
+  },
+  "prather2015": {
+   "authors": "Prather AA, Janicki-Deverts D, Hall MH, Cohen S",
+   "title": "Behaviorally Assessed Sleep and Susceptibility to the Common Cold",
+   "journal": "Sleep",
+   "year": 2015,
+   "citation": "38(9):1353-1359",
+   "pmid": "26118561",
+   "doi": "10.5665/sleep.4968"
+  },
+  "apple2024": {
+   "authors": "Apple Inc.",
+   "title": "Sleep Apnea Notifications on Apple Watch",
+   "journal": "Apple validation summary",
+   "year": 2024,
+   "url": "https://apple.com/health/pdf/sleep-apnea/Sleep_Apnea_Notifications_on_Apple_Watch_September_2024.pdf"
+  },
+  "fda_k240929": {
+   "authors": "U.S. Food and Drug Administration",
+   "title": "510(k) premarket notification K240929: Sleep Apnea Notification Feature",
+   "journal": "FDA 510(k) database",
+   "year": 2024,
+   "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K240929"
+  },
+  "zheng2024": {
+   "authors": "Zheng NS, Annis J, Master H, et al.",
+   "title": "Sleep patterns and risk of chronic disease as measured by long-term monitoring with commercial wearable devices in the All of Us Research Program",
+   "journal": "Nature Medicine",
+   "year": 2024,
+   "citation": "30(9):2648-2656",
+   "pmid": "39030265",
+   "doi": "10.1038/s41591-024-03155-8"
+  },
+  "lok2024": {
+   "authors": "Lok R, Weed L, Winer J, Zeitzer JM",
+   "title": "Perils of the nighttime: Impact of behavioral timing and preference on mental health in 73,888 community-dwelling adults",
+   "journal": "Psychiatry Research",
+   "year": 2024,
+   "citation": "337:115956",
+   "pmid": "38763081",
+   "doi": "10.1016/j.psychres.2024.115956"
+  },
+  "chaput2025": {
+   "authors": "Chaput JP, Biswas RK, Ahmadi M, et al.",
+   "title": "Sleep regularity and major adverse cardiovascular events: a device-based prospective study in 72 269 UK adults",
+   "journal": "Journal of Epidemiology and Community Health",
+   "year": 2025,
+   "citation": "79(4):257-264",
+   "pmid": "39603689",
+   "doi": "10.1136/jech-2024-222795"
+  },
+  "li2025": {
+   "authors": "Li DR, Li ZX, Li MH, et al.",
+   "title": "Regular sleep patterns, not just duration, critical for mental health: association of accelerometer-derived sleep regularity with incident depression and anxiety",
+   "journal": "Psychological Medicine",
+   "year": 2025,
+   "citation": "55:e239",
+   "pmid": "40814280",
+   "doi": "10.1017/S0033291725101281"
+  },
+  "yiallourou2024": {
+   "authors": "Yiallourou SR, Cribb L, Cavuoto MG, et al.",
+   "title": "Association of the Sleep Regularity Index With Incident Dementia and Brain Volume",
+   "journal": "Neurology",
+   "year": 2024,
+   "citation": "102(2):e208029",
+   "pmid": "38165323",
+   "doi": "10.1212/WNL.0000000000208029"
+  }
+ },
+ "findings": [
+  {
+   "id": "sleep-regularity",
+   "topic": "Timing & regularity",
+   "title": "Sleep regularity",
+   "metric": "sri",
+   "format": "number",
+   "valueLabel": "Sleep Regularity Index",
+   "bands": [
+    {
+     "max": 71.6,
+     "label": "below 71.6",
+     "repute": "attention",
+     "magnitude": 3,
+     "headline": "Your sleep is less regular than the least-regular fifth of a large UK cohort, the group that had the highest mortality risk. In that study sleep regularity predicted mortality more strongly than sleep duration. Later studies found that sleeping enough hours didn't cancel out the higher risk of heart disease and depression that came with irregular sleep.",
+     "detail": "In 60,977 UK Biobank participants (mean age 63) followed for about 6 years, the median Sleep Regularity Index was 81.0 (middle half 73.8 to 86.3). Compared with the least-regular fifth (below 71.6), the more regular groups had a 20-48% lower risk of all-cause mortality. In 61 university students, the least regular sleepers had their melatonin rhythm about 2.5 hours later than the most regular ones (around midnight versus 21:32) and did worse academically, even though they slept as many hours. In a later analysis of 72,269 UK Biobank adults followed for 8 years, people below 71.6 had a 26% higher risk of heart attack, stroke or heart failure than the most regular sleepers (above 87.3), and sleeping the recommended hours didn't offset it (hazard ratio 1.19, 1.06-1.35). In 79,666 adults followed for 7.5 years, the least regular quarter had a higher risk of new depression and anxiety; even those who slept the recommended hours had a 48% higher risk of depression (hazard ratio 1.48, 1.18-1.86) than regular sleepers who did. In 88,094 adults, an index at the 5th percentile went with a 53% higher risk of dementia than the median (hazard ratio 1.53, 1.24-1.89)."
+    },
+    {
+     "min": 71.6,
+     "max": 81,
+     "label": "71.6-81",
+     "repute": "info",
+     "magnitude": 2,
+     "headline": "Your sleep regularity is below the median of a large UK cohort but above its least-regular fifth, the group with the highest mortality risk.",
+     "detail": "In UK Biobank the median Sleep Regularity Index was 81.0 (middle half 73.8 to 86.3); the least-regular fifth scored below 71.6. In a heart study of 72,269 UK Biobank adults, people between 71.6 and 87.3 had a slightly higher risk of heart attack, stroke or heart failure than the most regular sleepers (8%), but not if they also slept the recommended hours (hazard ratio 1.07, 0.96-1.18). Below 71.6, enough sleep didn't offset the risk."
+    },
+    {
+     "min": 81,
+     "label": "81 and above",
+     "repute": "good",
+     "magnitude": 1,
+     "headline": "Your sleep is at least as regular as the median of a large UK cohort, where more regular sleep was linked to lower mortality.",
+     "detail": "In UK Biobank the median Sleep Regularity Index was 81.0 (middle half 73.8 to 86.3). In a heart study of 72,269 UK Biobank adults, the most regular group scored above 87.3; between 71.6 and 87.3 the risk of heart attack, stroke or heart failure was slightly higher (8%), but not for people who also slept the recommended hours."
+    }
+   ],
+   "background": "The Sleep Regularity Index is the chance of being in the same state, asleep or awake, at two moments 24 hours apart: 100 means identical days, 0 means random. Your bedtime varies by about {bedtime_sd_h:.1f} hours (standard deviation) and your wake time by about {wake_sd_h:.1f} hours. Your typical time asleep is {asleep_h:.1f} h.",
+   "refs": [
+    "windred2024",
+    "phillips2017",
+    "chaput2025",
+    "li2025",
+    "yiallourou2024"
+   ],
+   "caveat": "The studies measured sleep with research accelerometers; this score uses your tracker's sleep stages and only pairs of consecutive days that both have a recorded night. The UK Biobank cohort was much older than most readers. Treat the comparison as indicative. Studies compute the index differently: on the same UK Biobank data, the depression study's cut-offs (51 and 71) were much lower than the heart study's (71.6 and 87.3), and the dementia study's median was 60, so treat the numbers as rough guides.",
+   "minNights": 14
+  },
+  {
+   "id": "delayed-timing",
+   "topic": "Timing & regularity",
+   "title": "Late sleep timing",
+   "metric": "bedtime_delay_h",
+   "format": "hours",
+   "valueLabel": "Typical sleep onset",
+   "bands": [
+    {
+     "max": 1,
+     "label": "less than 1 h after {usual_bedtime_clock}",
+     "repute": "good",
+     "magnitude": 1,
+     "headline": "Your typical sleep onset ({bedtime_clock}) is close to the {usual_bedtime_clock} bedtime your schedule asks of you."
+    },
+    {
+     "min": 1,
+     "max": 2,
+     "label": "1-2 h after {usual_bedtime_clock}",
+     "repute": "info",
+     "magnitude": 1,
+     "headline": "Your typical sleep onset ({bedtime_clock}) is 1-2 hours after the {usual_bedtime_clock} bedtime your schedule asks of you: late, but less than the two hours that characterise delayed sleep-wake phase disorder.",
+     "detail": "A late body clock is also common in ADHD: a review found delayed sleep phase in 73-78% of children and adults with ADHD. Late sleep on its own doesn't point to ADHD, and a sleep tracker can't tell; but if problems with attention, restlessness or impulsivity have played a role since childhood, mention them to your doctor alongside your sleep.",
+     "refs": [
+      "bijlenga2019"
+     ]
+    },
+    {
+     "min": 2,
+     "label": "2 h or more after {usual_bedtime_clock}",
+     "repute": "attention",
+     "magnitude": 3,
+     "headline": "You typically fall asleep at {bedtime_clock} and wake at {wake_clock}: {bedtime_delay_h:.1f} hours after the {usual_bedtime_clock} bedtime your schedule asks of you. Sleep timing delayed by more than two hours is what characterises delayed sleep-wake phase disorder (DSWPD). Only a clinician can diagnose it.",
+     "detail": "The AASM guideline describes DSWPD as habitual sleep timing that is delayed, usually by more than two hours, relative to conventional or socially acceptable times, with difficulty falling asleep and waking at the required times; when people with DSWPD can follow their own schedule, sleep quality and quantity are typically normal. For adults it suggests strategically timed melatonin (a weak recommendation). It found insufficient evidence to recommend morning light therapy on its own for adults; for children and adolescents it suggests light after waking combined with behavioural treatment. Diagnosed DSWPD usually starts in adolescence or young adulthood, and its prevalence in adolescents and young adults is estimated at 1-16%. A late body clock is also common in ADHD: a review found delayed sleep phase in 73-78% of children and adults with ADHD. Late sleep on its own doesn't point to ADHD, and a sleep tracker can't tell; but if problems with attention, restlessness or impulsivity have played a role since childhood, mention them to your doctor alongside your sleep.",
+     "refs": [
+      "bijlenga2019"
+     ]
+    }
+   ],
+   "background": "Late timing is measured from the bedtime in your settings ({usual_bedtime_clock}). Your typical mid-point of sleep is {midsleep_clock}.",
+   "refs": [
+    "auger2015",
+    "sack2007",
+    "gradisar2013"
+   ],
+   "caveat": "Late timing alone isn't a disorder. The diagnosis also depends on whether it causes problems with the times you need to keep, and on how you sleep on a free schedule; a sleep diary like the one in this report is part of the assessment.",
+   "display": {
+    "metric": "bedtime_h",
+    "format": "clock"
+   },
+   "skip_if": [
+    "shiftWork"
+   ]
+  },
+  {
+   "id": "evening-naps",
+   "topic": "Naps",
+   "title": "Evening naps",
+   "metric": "evening_naps_per_week",
+   "format": "per_week",
+   "valueLabel": "Naps starting 17:00-23:00",
+   "bands": [
+    {
+     "label": "fewer than 1 a month",
+     "repute": "good",
+     "magnitude": 1,
+     "headline": "Hardly any evening naps: {evening_naps:.0f} in {nights:.0f} nights.",
+     "max": 0.25
+    },
+    {
+     "min": 0.25,
+     "max": 0.5,
+     "label": "up to 2 a month",
+     "repute": "info",
+     "magnitude": 1,
+     "headline": "You took {evening_naps:.0f} evening naps in {nights:.0f} nights, about once or twice a month. Evening naps can reduce sleep pressure and delay falling asleep at night."
+    },
+    {
+     "min": 0.5,
+     "label": "more than 2 a month",
+     "repute": "attention",
+     "magnitude": 3,
+     "headline": "You often nap in the evening: {evening_naps_per_week:.1f} times a week. In an experiment, an early-evening nap made people take longer to fall asleep that night; in your own data you fell asleep {nap_bedtime_delay_min} minutes later on nights after an evening nap.",
+     "detail": "Your median sleep onset was {bedtime_after_evening_nap_clock} after an evening nap and {bedtime_without_evening_nap_clock} otherwise. In Werth et al., healthy young men who took an early-evening nap had a longer sleep latency and less deep-sleep (slow-wave) activity the following night than in a baseline night, consistent with reduced sleep pressure. A review of sleep-hygiene evidence notes that evening naps in particular 'may be problematic if they dissipate homeostatic drive', while finding the evidence on daytime naps overall inconclusive."
+    }
+   ],
+   "refs": [
+    "werth1996",
+    "irish2015"
+   ],
+   "caveat": "Your own comparison is observational: nights after a nap may differ in other ways too (for example a short night before). The bands are this report's own; the studies didn't define how often is too often."
+  },
+  {
+   "id": "uars-context",
+   "topic": "Breathing & oxygen",
+   "title": "Normal oxygen does not rule out a breathing-related cause of tiredness",
+   "repute": "info",
+   "magnitude": 3,
+   "headline": "Some people are very sleepy during the day because of many very short arousals caused by extra breathing effort, with only a limited reduction in breathing volume, a pattern a wrist tracker cannot see.",
+   "detail": "Guilleminault et al. described 15 patients with excessive daytime sleepiness whose sleep was fragmented by brief EEG arousals. Each arousal followed one to three breaths of flow limitation with an abrupt but limited reduction in tidal volume, driven by increased respiratory effort (mean peak oesophageal pressure -33 cm H2O). Treatment with nasal CPAP reduced the arousal index from 31 to 8 per hour and their sleepiness resolved (time to fall asleep in a daytime nap test from 5.1 to 13.5 minutes). Measuring this needs a sleep study with breathing-effort sensors and EEG.",
+   "refs": [
+    "guilleminault1993"
+   ],
+   "caveat": "Shown because you didn't say you're rarely tired. It isn't based on your data, which can't detect this either way.",
+   "skip_if_false": [
+    "oftenTired"
+   ]
+  },
+  {
+   "id": "social-jetlag",
+   "topic": "Timing & regularity",
+   "title": "Social jetlag",
+   "metric": "social_jetlag_h",
+   "format": "hours",
+   "valueLabel": "Weekend shift in mid-sleep",
+   "bands": [
+    {
+     "max": 1,
+     "label": "under 1 h",
+     "repute": "good",
+     "magnitude": 1,
+     "headline": "Your sleep timing hardly shifts at the weekend."
+    },
+    {
+     "min": 1,
+     "max": 2,
+     "label": "1-2 h",
+     "repute": "attention",
+     "magnitude": 2,
+     "headline": "Your sleep shifts {social_jetlag_h:.1f} hours later on weekend nights: 'social jetlag', a mismatch between your body clock and your schedule that has been linked to higher BMI independently of sleep duration."
+    },
+    {
+     "min": 2,
+     "label": "2 h or more",
+     "repute": "attention",
+     "magnitude": 3,
+     "headline": "Your sleep shifts {social_jetlag_h:.1f} hours later on weekend nights: a large 'social jetlag', a mismatch between your body clock and your schedule that has been linked to higher BMI independently of sleep duration."
+    }
+   ],
+   "background": "Across the week your mid-sleep moves by {weekly_drift_h:.1f} hours between the earliest and the latest weekday. Social jetlag was described as the discrepancy between work and free days, between social and biological time; its links with wellbeing and stimulant use were strongest in people up to 25 years old.",
+   "refs": [
+    "wittmann2006",
+    "roenneberg2012"
+   ],
+   "caveat": "Free nights are the evenings before the days off in your settings. The bands are this report's own; the studies don't define a cut-off.",
+   "skip_if": [
+    "shiftWork"
+   ],
+   "minNights": 28
+  },
+  {
+   "id": "nights-under-7",
+   "topic": "Sleep amount",
+   "title": "How often you sleep less than 7 hours",
+   "metric": "pct_nights_under_7h",
+   "format": "pct",
+   "valueLabel": "Nights under 7 h asleep",
+   "bands": [
+    {
+     "max": 25,
+     "label": "under 25%",
+     "repute": "good",
+     "magnitude": 1,
+     "headline": "Most of your nights reach the recommended 7 hours."
+    },
+    {
+     "min": 25,
+     "max": 50,
+     "label": "25-50%",
+     "repute": "attention",
+     "magnitude": 2,
+     "headline": "{pct_nights_under_7h:.0f}% of your nights are under 7 hours asleep ({pct_nights_under_6h:.0f}% under 6 hours). The consensus is that adults should sleep 7 or more hours on a regular basis; regularly sleeping less is associated with adverse health outcomes."
+    },
+    {
+     "min": 50,
+     "label": "50% or more",
+     "repute": "attention",
+     "magnitude": 3,
+     "headline": "Most of your nights are under 7 hours asleep. The consensus is that adults should sleep 7 or more hours on a regular basis; regularly sleeping less is associated with adverse health outcomes."
+    }
+   ],
+   "background": "On the other side, {pct_nights_over_9h:.0f}% of your nights are over 9 hours. The consensus statement says more than 9 hours may be appropriate for young adults, people recovering from sleep debt and people with illnesses; for others it is uncertain whether it carries a health risk.",
+   "refs": [
+    "watson2015"
+   ],
+   "caveat": "The consensus statement doesn't say how many short nights are too many; these bands are this report's own.",
+   "groups": [
+    "young_adult",
+    "adult",
+    "older"
+   ],
+   "basis": "slept_nights"
+  },
+  {
+   "id": "nights-under-8",
+   "topic": "Sleep amount",
+   "title": "How often you sleep less than 8 hours",
+   "metric": "pct_nights_under_8h",
+   "format": "pct",
+   "valueLabel": "Nights under 8 h asleep",
+   "bands": [
+    {
+     "max": 25,
+     "label": "under 25%",
+     "repute": "good",
+     "magnitude": 1,
+     "headline": "Most of your nights reach the 8 hours recommended as a minimum for teenagers."
+    },
+    {
+     "min": 25,
+     "max": 50,
+     "label": "25-50%",
+     "repute": "attention",
+     "magnitude": 2,
+     "headline": "{pct_nights_under_8h:.0f}% of your nights are under 8 hours asleep. Teenagers should sleep 8 to 10 hours on a regular basis to promote optimal health."
+    },
+    {
+     "min": 50,
+     "label": "50% or more",
+     "repute": "attention",
+     "magnitude": 3,
+     "headline": "Most of your nights are under 8 hours asleep. Teenagers should sleep 8 to 10 hours on a regular basis to promote optimal health."
+    }
+   ],
+   "background": "",
+   "refs": [
+    "paruthi2016"
+   ],
+   "caveat": "The consensus statement doesn't say how many short nights are too many; these bands are this report's own.",
+   "groups": [
+    "teen"
+   ],
+   "basis": "slept_nights"
+  },
+  {
+   "id": "naps-length",
+   "topic": "Naps",
+   "title": "Nap length",
+   "metric": "nap_min",
+   "format": "min",
+   "valueLabel": "Typical nap, time asleep",
+   "bands": [
+    {
+     "max": 30,
+     "label": "under 30 min",
+     "repute": "good",
+     "magnitude": 1,
+     "headline": "Your naps are short. In a large meta-analysis, naps under 60 minutes were not linked to higher cardiovascular risk.",
+     "groups": [
+      "young_adult",
+      "adult",
+      "older"
+     ],
+     "refs": [
+      "yamada2015"
+     ]
+    },
+    {
+     "min": 30,
+     "max": 60,
+     "label": "30-59 min",
+     "repute": "info",
+     "magnitude": 1,
+     "headline": "Your naps are moderate in length. In a large meta-analysis, cardiovascular risk was lowest around 30 minutes of napping a day and rose from about 45 minutes.",
+     "groups": [
+      "young_adult",
+      "adult",
+      "older"
+     ],
+     "refs": [
+      "yamada2015"
+     ]
+    },
+    {
+     "min": 60,
+     "label": "60 min or more",
+     "repute": "attention",
+     "magnitude": 2,
+     "headline": "Your typical nap is {nap_min:.0f} minutes. In a meta-analysis of 11 cohorts (151,588 people), daily naps of 60 minutes or more were associated with a higher risk of cardiovascular disease (rate ratio 1.82) and of death from any cause (1.27); naps under 60 minutes were not.",
+     "detail": "The risk curve for cardiovascular disease was J-shaped: lowest around 30 minutes a day, rising slightly to about 45 minutes and steeply after that. In the National Sleep Foundation panel, naps over 100 minutes were judged a sign of poor sleep quality in adults.",
+     "groups": [
+      "young_adult",
+      "adult",
+      "older"
+     ],
+     "refs": [
+      "yamada2015",
+      "ohayon2017"
+     ]
+    },
+    {
+     "groups": [
+      "teen"
+     ],
+     "max": 21,
+     "label": "20 min or less",
+     "repute": "good",
+     "magnitude": 1,
+     "refs": [
+      "ohayon2017"
+     ],
+     "headline": "Your naps are short. For teenagers, an expert panel judged naps of 20 minutes or less a sign of good sleep quality."
+    },
+    {
+     "groups": [
+      "teen"
+     ],
+     "min": 21,
+     "max": 121,
+     "label": "21-120 min",
+     "repute": "info",
+     "magnitude": 1,
+     "refs": [
+      "ohayon2017"
+     ],
+     "headline": "Your typical nap is {nap_min:.0f} minutes: longer than the 20 minutes an expert panel judged good for teenagers, but not over the 120 minutes it judged poor."
+    },
+    {
+     "groups": [
+      "teen"
+     ],
+     "min": 121,
+     "label": "over 120 min",
+     "repute": "attention",
+     "magnitude": 2,
+     "refs": [
+      "ohayon2017"
+     ],
+     "headline": "Your typical nap is {nap_min:.0f} minutes. For teenagers, an expert panel judged naps over 120 minutes a sign of poor sleep quality."
+    }
+   ],
+   "refs": [],
+   "caveat": "These are associations in observational studies; long naps may be a sign of an underlying problem rather than its cause. Your naps were counted on {naps} occasions."
+  },
+  {
+   "id": "odi",
+   "topic": "Breathing & oxygen",
+   "title": "Oxygen dips (ODI)",
+   "metric": "odi3",
+   "format": "per_hour",
+   "valueLabel": "Oxygen dips per hour",
+   "bands": [
+    {
+     "max": 5,
+     "label": "under 5",
+     "repute": "good",
+     "magnitude": 2,
+     "headline": "Your oxygen dips are well under 5 per hour on a typical night (highest night {max_odi3:.1f}). In a validation study, an index above 5 was the best cut-off for detecting sleep apnea, so this gives no sign of the kind of sleep apnea that repeatedly lowers oxygen.",
+     "detail": "In 475 surgical patients tested with home sleep studies and high-resolution oximetry at the same time, an oxygen desaturation index above 5, 15 and 30 per hour best matched an apnea-hypopnea index above 5, 15 and 30 (accuracy 86%, 86% and 94%). The AASM uses 5, 15 and 30 events per hour as its sleep-apnea severity thresholds.",
+     "groups": [
+      "young_adult",
+      "adult",
+      "older"
+     ]
+    },
+    {
+     "min": 5,
+     "max": 15,
+     "label": "5-15",
+     "repute": "attention",
+     "magnitude": 3,
+     "headline": "Your oxygen dips are between 5 and 15 per hour, the range that matched mild sleep apnea in a validation study. Worth discussing with a doctor.",
+     "groups": [
+      "young_adult",
+      "adult",
+      "older"
+     ]
+    },
+    {
+     "min": 15,
+     "max": 30,
+     "label": "15-30",
+     "repute": "attention",
+     "magnitude": 4,
+     "headline": "Your oxygen dips are between 15 and 30 per hour, the range that matched moderate sleep apnea in a validation study. Please discuss this with a doctor.",
+     "groups": [
+      "young_adult",
+      "adult",
+      "older"
+     ]
+    },
+    {
+     "min": 30,
+     "label": "30 or more",
+     "repute": "attention",
+     "magnitude": 4,
+     "headline": "Your oxygen dips are 30 or more per hour, the range that matched severe sleep apnea in a validation study. Please discuss this with a doctor soon.",
+     "groups": [
+      "young_adult",
+      "adult",
+      "older"
+     ]
+    },
+    {
+     "groups": [
+      "teen"
+     ],
+     "label": "adult cut-offs",
+     "repute": "info",
+     "magnitude": 2,
+     "headline": "Your oxygen dips are {odi3:.1f} per hour. The usual cut-offs (5, 15 and 30 per hour) come from adult guidelines and a study of adults around 60 years old; they don't apply to teenagers. Ask a doctor if you snore or are often tired."
+    }
+   ],
+   "refs": [
+    "chung2012",
+    "kapur2017",
+    "fitbit_spo2_docs"
+   ],
+   "caveat": "Fitbit reports SpO2 as a 5-minute moving average, which flattens short dips, so this count runs lower than a clinical oximeter's and can miss mild apnea. This report counts dips of 3 or more points. The AASM strongly recommends that sleep apnea be diagnosed only with a sleep study or home sleep apnea test, not with questionnaires or prediction tools.",
+   "basis": "spo2_nights"
+  },
+  {
+   "id": "sleep-duration",
+   "topic": "Sleep amount",
+   "title": "Sleep duration",
+   "metric": "asleep_h",
+   "format": "hours",
+   "valueLabel": "Typical time asleep",
+   "bands": [
+    {
+     "groups": [
+      "young_adult",
+      "adult"
+     ],
+     "max": 6,
+     "label": "under 6 h",
+     "repute": "attention",
+     "magnitude": 3,
+     "refs": [
+      "watson2015",
+      "hirshkowitz2015"
+     ],
+     "headline": "Your typical night is well under the recommended 7 hours. Regularly sleeping less than 7 hours is associated with weight gain, diabetes, high blood pressure, heart disease, depression and a higher risk of death."
+    },
+    {
+     "groups": [
+      "young_adult",
+      "adult"
+     ],
+     "min": 6,
+     "max": 7,
+     "label": "6-7 h",
+     "repute": "attention",
+     "magnitude": 2,
+     "refs": [
+      "watson2015",
+      "hirshkowitz2015"
+     ],
+     "headline": "Your typical night is under the recommended 7 hours. Regularly sleeping less than 7 hours is associated with adverse health outcomes."
+    },
+    {
+     "groups": [
+      "young_adult",
+      "adult"
+     ],
+     "min": 7,
+     "max": 9.01,
+     "label": "7-9 h",
+     "repute": "good",
+     "magnitude": 2,
+     "refs": [
+      "watson2015",
+      "hirshkowitz2015"
+     ],
+     "headline": "Your typical night is within the 7-9 hours recommended for adults; the consensus is that adults should sleep 7 or more hours on a regular basis."
+    },
+    {
+     "groups": [
+      "young_adult",
+      "adult"
+     ],
+     "min": 9.01,
+     "label": "over 9 h",
+     "repute": "info",
+     "magnitude": 2,
+     "refs": [
+      "watson2015",
+      "hirshkowitz2015"
+     ],
+     "headline": "Your typical night is over 9 hours. That may be appropriate for young adults, people recovering from sleep debt and people with an illness; for others it's uncertain whether it carries a health risk."
+    },
+    {
+     "groups": [
+      "teen"
+     ],
+     "max": 8,
+     "label": "under 8 h",
+     "repute": "attention",
+     "magnitude": 2,
+     "refs": [
+      "paruthi2016",
+      "hirshkowitz2015"
+     ],
+     "headline": "Your typical night is under the 8-10 hours recommended for teenagers, who should sleep that much on a regular basis to promote optimal health."
+    },
+    {
+     "groups": [
+      "teen"
+     ],
+     "min": 8,
+     "max": 10.01,
+     "label": "8-10 h",
+     "repute": "good",
+     "magnitude": 2,
+     "refs": [
+      "paruthi2016",
+      "hirshkowitz2015"
+     ],
+     "headline": "Your typical night is within the 8-10 hours recommended for teenagers."
+    },
+    {
+     "groups": [
+      "teen"
+     ],
+     "min": 10.01,
+     "label": "over 10 h",
+     "repute": "info",
+     "magnitude": 2,
+     "refs": [
+      "paruthi2016",
+      "hirshkowitz2015"
+     ],
+     "headline": "Your typical night is over the 8-10 hours recommended for teenagers. Regularly sleeping more than the recommended hours may be associated with adverse health outcomes."
+    },
+    {
+     "groups": [
+      "older"
+     ],
+     "max": 7,
+     "label": "under 7 h",
+     "repute": "attention",
+     "magnitude": 2,
+     "refs": [
+      "hirshkowitz2015"
+     ],
+     "headline": "Your typical night is under the 7-8 hours recommended for older adults. The National Sleep Foundation notes that sleep durations outside the recommended range may be appropriate, but deviating far from the normal range is rare."
+    },
+    {
+     "groups": [
+      "older"
+     ],
+     "min": 7,
+     "max": 8.01,
+     "label": "7-8 h",
+     "repute": "good",
+     "magnitude": 2,
+     "refs": [
+      "hirshkowitz2015"
+     ],
+     "headline": "Your typical night is within the 7-8 hours recommended for older adults."
+    },
+    {
+     "groups": [
+      "older"
+     ],
+     "min": 8.01,
+     "label": "over 8 h",
+     "repute": "info",
+     "magnitude": 2,
+     "refs": [
+      "hirshkowitz2015"
+     ],
+     "headline": "Your typical night is over the 7-8 hours recommended for older adults. The National Sleep Foundation notes that sleep durations outside the recommended range may be appropriate, but deviating far from the normal range is rare."
+    }
+   ],
+   "background": "Your time asleep varies from night to night (standard deviation {asleep_sd_h:.1f} hours). The AASM/SRS adult consensus covers ages 18 to 60; the National Sleep Foundation's ranges cover each age group.",
+   "refs": [],
+   "caveat": "Wrist trackers tend to count quiet wakefulness as sleep, so real sleep time may be somewhat lower.",
+   "basis": "slept_nights"
+  },
+  {
+   "id": "hr-surges",
+   "topic": "Heart",
+   "title": "Heart-rate surges during sleep",
+   "metric": "surges_per_hour",
+   "format": "per_hour",
+   "valueLabel": "Surges of 10+ bpm per hour asleep",
+   "repute": "info",
+   "magnitude": 2,
+   "headline": "Your heart rate surged by 10 or more beats per minute about {surges_per_hour:.1f} times per hour of sleep, {surges_without_awakening:.1f} of them without an awakening detected by Fitbit. Arousals from sleep reliably come with a heart-rate rise, but there's no normal range for this count from a wrist tracker.",
+   "detail": "In healthy adults every type of arousal came with a speeding up of the heart followed by a slowing, and the rise began before the brain arousal itself. In 28 healthy young adults the average rise per arousal ranged from 1.9 to 18.3 bpm between people, and each person's response was very consistent from night to night. In two large community cohorts, a large pulse-rate rise after breathing events during sleep predicted cardiovascular disease and death. (This report's note: repeated breathing events would show up as many surges per hour, often in a regular rhythm.)",
+   "refs": [
+    "sforza2000",
+    "azarbarzin2015",
+    "azarbarzin2021"
+   ],
+   "caveat": "Use this to compare your own nights. Because individual heart-rate responses vary so much, a low count doesn't prove there are few arousals.",
+   "basis": "surge_nights"
+  },
+  {
+   "id": "device-accuracy",
+   "topic": "About the device",
+   "title": "What a wrist tracker can and can't measure",
+   "repute": "info",
+   "magnitude": 2,
+   "headline": "Fitbit trackers detect sleep well but miss much of the time spent awake, and their sleep stages are only moderately accurate, so efficiency and stage numbers in this report are estimates.",
+   "detail": "Against polysomnography, seven consumer trackers detected at least 93% of sleep but only 18-54% of wake; their sleep-stage results were inconsistent, though a Fitbit was the best performer overall and for light and REM sleep. In a Fitbit Charge 2 study, deep sleep was correctly identified only 49% of the time and underestimated by 24 minutes, while light sleep was overestimated by 34 minutes. A meta-analysis of Fitbit models with sleep stages found 95-96% sensitivity but 58-69% specificity for detecting sleep, and concluded they are not a substitute for a sleep study. For oxygen, a Fitbit Charge 4 agreed poorly with a medical oximeter in people with COPD and overestimated saturation, while resting heart rate and breathing rate agreed well.",
+   "refs": [
+    "chinoy2021",
+    "dezambotti2018",
+    "haghayegh2019",
+    "hermans2024"
+   ],
+   "caveat": "None of these studies tested the Charge 6 itself.",
+   "sources": [
+    "google"
+   ]
+  },
+  {
+   "id": "sleep-efficiency",
+   "topic": "Sleep quality",
+   "title": "Sleep efficiency",
+   "metric": "efficiency_pct",
+   "format": "pct",
+   "valueLabel": "Time in bed spent asleep",
+   "bands": [
+    {
+     "groups": [
+      "teen",
+      "adult",
+      "older"
+     ],
+     "max": 75,
+     "label": "74% or lower",
+     "repute": "attention",
+     "magnitude": 2,
+     "headline": "Your sleep efficiency is in the range an expert panel judged a sign of poor sleep quality for your age group (74% or lower)."
+    },
+    {
+     "groups": [
+      "young_adult"
+     ],
+     "max": 65,
+     "label": "64% or lower",
+     "repute": "attention",
+     "magnitude": 2,
+     "headline": "Your sleep efficiency is in the range an expert panel judged a sign of poor sleep quality for young adults (64% or lower)."
+    },
+    {
+     "groups": [
+      "teen",
+      "adult",
+      "older"
+     ],
+     "min": 75,
+     "max": 85,
+     "label": "75-84%",
+     "repute": "info",
+     "magnitude": 1,
+     "headline": "Your sleep efficiency is between the panel's 'good' (85% or more) and 'poor' (74% or less) ranges."
+    },
+    {
+     "groups": [
+      "young_adult"
+     ],
+     "min": 65,
+     "max": 85,
+     "label": "65-84%",
+     "repute": "info",
+     "magnitude": 1,
+     "headline": "Your sleep efficiency is between the panel's 'good' (85% or more) and, for young adults, 'poor' (64% or less) ranges."
+    },
+    {
+     "min": 85,
+     "label": "85% or more",
+     "repute": "good",
+     "magnitude": 1,
+     "headline": "Your sleep efficiency is in the range an expert panel judged a sign of good sleep quality (85% or more)."
+    }
+   ],
+   "refs": [
+    "ohayon2017",
+    "chinoy2021"
+   ],
+   "caveat": "Because trackers miss much of the time spent awake, efficiency from a wrist tracker tends to be too high.",
+   "basis": "slept_nights"
+  },
+  {
+   "id": "sleep-latency",
+   "topic": "Sleep quality",
+   "title": "Time to fall asleep",
+   "metric": "latency_min",
+   "format": "min",
+   "valueLabel": "Typical time to fall asleep",
+   "bands": [
+    {
+     "max": 31,
+     "label": "30 min or less",
+     "repute": "good",
+     "magnitude": 1,
+     "headline": "You typically fall asleep within 30 minutes, which an expert panel judged a sign of good sleep quality. On {pct_latency_over_30:.0f}% of nights it took longer than 30 minutes."
+    },
+    {
+     "groups": [
+      "teen",
+      "young_adult",
+      "adult"
+     ],
+     "min": 31,
+     "max": 46,
+     "label": "31-45 min",
+     "repute": "info",
+     "magnitude": 1,
+     "headline": "You typically take 31-45 minutes to fall asleep, between the panel's 'good' (30 or less) and 'poor' (46 or more) ranges."
+    },
+    {
+     "groups": [
+      "teen",
+      "young_adult",
+      "adult"
+     ],
+     "min": 46,
+     "label": "46 min or more",
+     "repute": "attention",
+     "magnitude": 2,
+     "headline": "You typically take more than 45 minutes to fall asleep, which an expert panel judged a sign of poor sleep quality for your age group."
+    },
+    {
+     "groups": [
+      "older"
+     ],
+     "min": 31,
+     "max": 61,
+     "label": "31-60 min",
+     "repute": "info",
+     "magnitude": 1,
+     "headline": "You typically take 31-60 minutes to fall asleep, between the panel's 'good' (30 or less) and, for older adults, 'poor' (over 60) ranges."
+    },
+    {
+     "groups": [
+      "older"
+     ],
+     "min": 61,
+     "label": "over 60 min",
+     "repute": "attention",
+     "magnitude": 2,
+     "headline": "You typically take more than an hour to fall asleep, which an expert panel judged a sign of poor sleep quality."
+    }
+   ],
+   "refs": [
+    "ohayon2017"
+   ],
+   "caveat": "Your tracker's estimate of when you fell asleep is approximate.",
+   "basis": "slept_nights"
+  },
+  {
+   "id": "waso",
+   "topic": "Sleep quality",
+   "title": "Awake during the night",
+   "metric": "waso_min",
+   "format": "min",
+   "valueLabel": "Typical wake after sleep onset",
+   "bands": [
+    {
+     "max": 21,
+     "label": "20 min or less",
+     "repute": "good",
+     "magnitude": 1,
+     "headline": "You're typically awake for {waso_min:.0f} minutes between falling asleep and your final wake-up, within the 20 minutes an expert panel judged a sign of good sleep quality."
+    },
+    {
+     "groups": [
+      "young_adult",
+      "adult"
+     ],
+     "min": 21,
+     "max": 41,
+     "label": "21-40 min",
+     "repute": "info",
+     "magnitude": 1,
+     "headline": "You're typically awake for {waso_min:.0f} minutes during the night, between the panel's 'good' (20 or less) and 'poor' (41 or more) ranges."
+    },
+    {
+     "groups": [
+      "young_adult",
+      "adult"
+     ],
+     "min": 41,
+     "label": "41 min or more",
+     "repute": "attention",
+     "magnitude": 2,
+     "headline": "You're typically awake for {waso_min:.0f} minutes during the night, which an expert panel judged a sign of poor sleep quality for your age group."
+    },
+    {
+     "groups": [
+      "teen"
+     ],
+     "min": 21,
+     "max": 51,
+     "label": "21-50 min",
+     "repute": "info",
+     "magnitude": 1,
+     "headline": "You're typically awake for {waso_min:.0f} minutes during the night, between the panel's 'good' (20 or less) and, for teenagers, 'poor' (51 or more) ranges."
+    },
+    {
+     "groups": [
+      "teen"
+     ],
+     "min": 51,
+     "label": "51 min or more",
+     "repute": "attention",
+     "magnitude": 2,
+     "headline": "You're typically awake for {waso_min:.0f} minutes during the night, which an expert panel judged a sign of poor sleep quality for teenagers."
+    },
+    {
+     "groups": [
+      "older"
+     ],
+     "min": 21,
+     "label": "over 20 min",
+     "repute": "info",
+     "magnitude": 1,
+     "headline": "You're typically awake for {waso_min:.0f} minutes during the night: more than the 20 minutes an expert panel judged good. The panel set no 'poor' range for older adults."
+    }
+   ],
+   "background": "Separately, you typically stay in bed {after_waking_min:.0f} minutes after your final wake-up.",
+   "refs": [
+    "ohayon2017",
+    "chinoy2021"
+   ],
+   "caveat": "Wrist trackers detect only part of the time spent awake, so the real figure is probably higher.",
+   "basis": "slept_nights"
+  },
+  {
+   "id": "long-awakenings",
+   "topic": "Sleep quality",
+   "title": "Awakenings longer than 5 minutes",
+   "metric": "long_awakenings",
+   "format": "number",
+   "valueLabel": "Typical awakenings over 5 min per night",
+   "bands": [
+    {
+     "groups": [
+      "teen",
+      "young_adult",
+      "adult"
+     ],
+     "max": 2,
+     "label": "0-1",
+     "repute": "good",
+     "magnitude": 1,
+     "headline": "You typically wake up for more than 5 minutes at most once a night, which an expert panel judged a sign of good sleep quality."
+    },
+    {
+     "groups": [
+      "older"
+     ],
+     "max": 3,
+     "label": "0-2",
+     "repute": "good",
+     "magnitude": 1,
+     "headline": "You typically wake up for more than 5 minutes at most twice a night, which an expert panel judged a sign of good sleep quality for older adults."
+    },
+    {
+     "groups": [
+      "teen",
+      "young_adult",
+      "adult"
+     ],
+     "min": 2,
+     "max": 4,
+     "label": "2-3",
+     "repute": "info",
+     "magnitude": 1,
+     "headline": "You typically wake up for more than 5 minutes {long_awakenings:.0f} times a night, between the panel's 'good' (0-1) and 'poor' (4 or more) ranges."
+    },
+    {
+     "groups": [
+      "older"
+     ],
+     "min": 3,
+     "max": 4,
+     "label": "3",
+     "repute": "info",
+     "magnitude": 1,
+     "headline": "You typically wake up for more than 5 minutes 3 times a night, between the panel's 'good' (0-2 for older adults) and 'poor' (4 or more) ranges."
+    },
+    {
+     "min": 4,
+     "label": "4 or more",
+     "repute": "attention",
+     "magnitude": 2,
+     "headline": "You typically wake up for more than 5 minutes {long_awakenings:.0f} times a night, which an expert panel judged a sign of poor sleep quality."
+    }
+   ],
+   "refs": [
+    "ohayon2017",
+    "chinoy2021"
+   ],
+   "caveat": "Wrist trackers detect only part of the time spent awake.",
+   "basis": "slept_nights"
+  },
+  {
+   "id": "deep-sleep",
+   "topic": "Sleep quality",
+   "title": "Deep sleep",
+   "metric": "deep_pct",
+   "format": "pct",
+   "valueLabel": "Deep sleep, share of sleep",
+   "bands": [
+    {
+     "groups": [
+      "teen",
+      "young_adult",
+      "adult"
+     ],
+     "max": 6,
+     "label": "5% or less",
+     "repute": "attention",
+     "magnitude": 2,
+     "headline": "Very little deep sleep was recorded; an expert panel judged 5% or less a sign of poor sleep quality."
+    },
+    {
+     "groups": [
+      "adult"
+     ],
+     "min": 6,
+     "max": 16,
+     "label": "6-15%",
+     "repute": "info",
+     "magnitude": 1,
+     "headline": "Your deep sleep is below the 16-20% an expert panel associated with good sleep quality in adults, but above the 5% it judged poor."
+    },
+    {
+     "groups": [
+      "adult"
+     ],
+     "min": 16,
+     "max": 21,
+     "label": "16-20%",
+     "repute": "good",
+     "magnitude": 1,
+     "headline": "Your deep sleep is in the 16-20% range an expert panel associated with good sleep quality in adults."
+    },
+    {
+     "groups": [
+      "adult"
+     ],
+     "min": 21,
+     "label": "over 20%",
+     "repute": "info",
+     "magnitude": 1,
+     "headline": "Your deep sleep is above the 16-20% range an expert panel associated with good sleep quality in adults; the panel didn't judge higher values either way."
+    },
+    {
+     "groups": [
+      "teen"
+     ],
+     "min": 6,
+     "max": 20,
+     "label": "6-19%",
+     "repute": "info",
+     "magnitude": 1,
+     "headline": "Your deep sleep is below the 20-25% an expert panel associated with good sleep quality in teenagers, but above the 5% it judged poor."
+    },
+    {
+     "groups": [
+      "teen"
+     ],
+     "min": 20,
+     "max": 26,
+     "label": "20-25%",
+     "repute": "good",
+     "magnitude": 1,
+     "headline": "Your deep sleep is in the 20-25% range an expert panel associated with good sleep quality in teenagers."
+    },
+    {
+     "groups": [
+      "teen"
+     ],
+     "min": 26,
+     "label": "over 25%",
+     "repute": "info",
+     "magnitude": 1,
+     "headline": "Your deep sleep is above the 20-25% range an expert panel associated with good sleep quality in teenagers; the panel didn't judge higher values either way."
+    },
+    {
+     "groups": [
+      "young_adult"
+     ],
+     "min": 6,
+     "label": "over 5%",
+     "repute": "info",
+     "magnitude": 1,
+     "headline": "Your deep sleep is above the 5% an expert panel judged poor; the panel reached no consensus on a good range for young adults."
+    },
+    {
+     "groups": [
+      "older"
+     ],
+     "label": "any",
+     "repute": "info",
+     "magnitude": 1,
+     "headline": "An expert panel reached no consensus on deep-sleep ranges for older adults. Deep sleep normally declines with age."
+    }
+   ],
+   "background": "In a meta-analysis of 65 studies of healthy people, the share of deep (slow-wave) sleep falls by about 2 percentage points per decade of adult life.",
+   "refs": [
+    "ohayon2017",
+    "ohayon2004",
+    "dezambotti2018"
+   ],
+   "caveat": "Deep sleep is the stage wrist trackers estimate worst: in a Fitbit Charge 2 study it was identified correctly only 49% of the time.",
+   "basis": "staged_nights",
+   "minNights": 28
+  },
+  {
+   "id": "rem-sleep",
+   "topic": "Sleep quality",
+   "title": "REM sleep",
+   "metric": "rem_pct",
+   "format": "pct",
+   "valueLabel": "REM sleep, share of sleep",
+   "bands": [
+    {
+     "groups": [
+      "adult"
+     ],
+     "max": 21,
+     "label": "under 21%",
+     "repute": "info",
+     "magnitude": 1,
+     "headline": "Your REM sleep is a little below the 21-30% an expert panel associated with good sleep quality in adults."
+    },
+    {
+     "groups": [
+      "adult"
+     ],
+     "min": 21,
+     "max": 31,
+     "label": "21-30%",
+     "repute": "good",
+     "magnitude": 1,
+     "headline": "Your REM sleep is in the 21-30% range an expert panel associated with good sleep quality in adults."
+    },
+    {
+     "groups": [
+      "adult"
+     ],
+     "min": 31,
+     "max": 41,
+     "label": "31-40%",
+     "repute": "info",
+     "magnitude": 1,
+     "headline": "Your REM sleep is above the 21-30% range the panel associated with good quality, but below the 41% it judged poor."
+    },
+    {
+     "groups": [
+      "young_adult",
+      "older"
+     ],
+     "max": 41,
+     "label": "under 41%",
+     "repute": "info",
+     "magnitude": 1,
+     "headline": "Your REM sleep is below the 41% an expert panel judged poor; the panel reached no consensus on a good range for your age group."
+    },
+    {
+     "groups": [
+      "young_adult",
+      "adult",
+      "older"
+     ],
+     "min": 41,
+     "label": "41% or more",
+     "repute": "attention",
+     "magnitude": 2,
+     "headline": "Your REM sleep is 41% or more of sleep, which an expert panel judged a sign of poor sleep quality."
+    },
+    {
+     "groups": [
+      "teen"
+     ],
+     "max": 11,
+     "label": "10% or less",
+     "repute": "attention",
+     "magnitude": 2,
+     "headline": "Very little REM sleep was recorded; for teenagers an expert panel judged 10% or less a sign of poor sleep quality."
+    },
+    {
+     "groups": [
+      "teen"
+     ],
+     "min": 11,
+     "label": "over 10%",
+     "repute": "info",
+     "magnitude": 1,
+     "headline": "Your REM sleep is above the 10% an expert panel judged poor for teenagers; the panel reached no consensus on a good range."
+    }
+   ],
+   "refs": [
+    "ohayon2017",
+    "chinoy2021"
+   ],
+   "caveat": "Sleep-stage estimates from wrist trackers are inconsistent against sleep studies.",
+   "basis": "staged_nights"
+  },
+  {
+   "id": "spo2-level",
+   "topic": "Breathing & oxygen",
+   "title": "Blood oxygen level during sleep",
+   "metric": "spo2_avg",
+   "format": "pct1",
+   "valueLabel": "Typical night average SpO2",
+   "bands": [
+    {
+     "max": 93,
+     "label": "under 93%",
+     "repute": "attention",
+     "magnitude": 3,
+     "headline": "Your average oxygen level during sleep is lower than is typical for people with a normal sleep study. Worth discussing with a doctor.",
+     "groups": [
+      "teen",
+      "young_adult",
+      "adult"
+     ]
+    },
+    {
+     "min": 93,
+     "max": 95,
+     "label": "93-95%",
+     "repute": "info",
+     "magnitude": 2,
+     "headline": "Your average oxygen level during sleep is at the low end of what people with a normal sleep study show.",
+     "groups": [
+      "teen",
+      "young_adult",
+      "adult"
+     ]
+    },
+    {
+     "min": 95,
+     "label": "95% or more",
+     "repute": "good",
+     "magnitude": 1,
+     "headline": "Your average oxygen level during sleep is in line with people who had a normal sleep study (median about 96.5%).",
+     "groups": [
+      "teen",
+      "young_adult",
+      "adult"
+     ]
+    },
+    {
+     "groups": [
+      "older"
+     ],
+     "max": 92,
+     "label": "under 92%",
+     "repute": "attention",
+     "magnitude": 3,
+     "headline": "Your average oxygen level during sleep is lower than is typical even for people over 60 with a normal sleep study. Worth discussing with a doctor."
+    },
+    {
+     "groups": [
+      "older"
+     ],
+     "min": 92,
+     "max": 94,
+     "label": "92-94%",
+     "repute": "info",
+     "magnitude": 2,
+     "headline": "Your average oxygen level during sleep is at the low end of what people over 60 with a normal sleep study show."
+    },
+    {
+     "groups": [
+      "older"
+     ],
+     "min": 94,
+     "label": "94% or more",
+     "repute": "good",
+     "magnitude": 1,
+     "headline": "Your average oxygen level during sleep is in line with people over 60 who had a normal sleep study (median about 95.1%)."
+    }
+   ],
+   "background": "In 350 people aged 1 month to 85 years with normal sleep studies, the median saturation during sleep was 96.5% (±1.5), the level below which they spent 10% of the night was 94.7%, and their lowest value averaged 90.4% (±3.1). People over 60 had lower values: median 95.1% (±2.0) and 10th percentile 92.8%. Your typical nightly minimum was {spo2_min:.1f}%.",
+   "refs": [
+    "gries1996",
+    "hermans2024"
+   ],
+   "caveat": "The bands are this report's own, based on these figures. Wrist SpO2 is also less accurate than a fingertip oximeter: a Fitbit Charge 4 overestimated saturation in people with lung disease.",
+   "basis": "spo2_level_nights"
+  },
+  {
+   "id": "sleeping-hr",
+   "topic": "Heart",
+   "title": "Heart rate during sleep",
+   "metric": "hr_median",
+   "format": "bpm",
+   "valueLabel": "Typical heart rate asleep",
+   "bands": [
+    {
+     "max": 70,
+     "label": "under 70 bpm",
+     "repute": "good",
+     "magnitude": 1,
+     "headline": "Your heart rate during sleep is low. In a meta-analysis of 1.2 million people, each 10 bpm higher resting heart rate was associated with a 9% higher risk of death.",
+     "groups": [
+      "young_adult",
+      "adult",
+      "older"
+     ]
+    },
+    {
+     "min": 70,
+     "max": 80,
+     "label": "70-79 bpm",
+     "repute": "info",
+     "magnitude": 1,
+     "headline": "Your heart rate during sleep is moderate. Sleeping heart rate is normally lower than daytime resting heart rate.",
+     "groups": [
+      "young_adult",
+      "adult",
+      "older"
+     ]
+    },
+    {
+     "min": 80,
+     "label": "80 bpm or more",
+     "repute": "attention",
+     "magnitude": 2,
+     "headline": "Your heart rate during sleep is high. A daytime resting heart rate above 80 bpm was associated with a 45% higher risk of death than the lowest category; a sleeping heart rate this high is worth discussing with a doctor.",
+     "groups": [
+      "young_adult",
+      "adult",
+      "older"
+     ]
+    },
+    {
+     "groups": [
+      "teen"
+     ],
+     "label": "adult study",
+     "repute": "info",
+     "magnitude": 1,
+     "headline": "Your typical heart rate during sleep is {hr_median:.0f} bpm. The meta-analysis of resting heart rate and mortality studied adults, so it doesn't give a reference for teenagers."
+    }
+   ],
+   "background": "Your typical lowest minute was {hr_lowest:.0f} bpm. The meta-analysis pooled 46 studies; all-cause risk rose linearly from 45 bpm, while cardiovascular risk rose significantly from 90 bpm.",
+   "refs": [
+    "zhang2016"
+   ],
+   "caveat": "The meta-analysis is about daytime resting heart rate, which is higher than heart rate during sleep, so the comparison is only a rough guide. The bands are this report's own.",
+   "basis": "hr_nights"
+  },
+  {
+   "id": "breathing-rate",
+   "topic": "Breathing & oxygen",
+   "title": "Breathing rate during sleep",
+   "metric": "breathing_rate",
+   "format": "breaths",
+   "valueLabel": "Typical breathing rate",
+   "bands": [
+    {
+     "max": 12,
+     "label": "under 12",
+     "repute": "info",
+     "magnitude": 1,
+     "headline": "Your breathing rate during sleep is below the 12-20 breaths per minute that is normal for adults at rest.",
+     "groups": [
+      "young_adult",
+      "adult",
+      "older"
+     ]
+    },
+    {
+     "min": 12,
+     "max": 20.01,
+     "label": "12-20",
+     "repute": "good",
+     "magnitude": 1,
+     "headline": "Your breathing rate during sleep is within the 12-20 breaths per minute that is normal for adults, and steady from night to night ({breathing_min:.1f} to {breathing_max:.1f}).",
+     "groups": [
+      "young_adult",
+      "adult",
+      "older"
+     ]
+    },
+    {
+     "min": 20.01,
+     "label": "over 20",
+     "repute": "attention",
+     "magnitude": 2,
+     "headline": "Your breathing rate during sleep is above 20 breaths per minute; in hospital patients a rate above 20 is considered a sign of being unwell.",
+     "groups": [
+      "young_adult",
+      "adult",
+      "older"
+     ]
+    },
+    {
+     "groups": [
+      "teen"
+     ],
+     "label": "adult range",
+     "repute": "info",
+     "magnitude": 1,
+     "headline": "Your breathing rate during sleep is {breathing_rate:.1f} per minute. The 12-20 range is the normal range for adults."
+    }
+   ],
+   "background": "During sleep, breathing becomes faster and shallower than when awake, and ventilation falls most in REM sleep. A Fitbit's breathing rate agreed well with reference measurements in one validation study.",
+   "refs": [
+    "nicolo2020",
+    "cretikos2008",
+    "douglas1982",
+    "hermans2024"
+   ],
+   "caveat": "Normal ranges are for adults at rest while awake; there's no separate established range for sleep.",
+   "basis": "breathing_nights"
+  },
+  {
+   "id": "cvhr",
+   "topic": "Breathing & oxygen",
+   "title": "Apnea-like heart-rate cycles",
+   "metric": "cvhr_median",
+   "format": "per_hour",
+   "valueLabel": "Heart-rate cycles per hour in bed",
+   "bands": [
+    {
+     "groups": [
+      "young_adult",
+      "adult",
+      "older"
+     ],
+     "max": 11,
+     "label": "under 11",
+     "repute": "info",
+     "magnitude": 2,
+     "headline": "On a typical night your heart rate showed {cvhr_median:.1f} apnea-like cycles per hour in bed, below the 11 per hour that best identified moderate-to-severe sleep apnea in a study with a wrist-worn watch. The method isn't validated on Fitbit heart rate, and in your data it also finds {cvhr_awake_rate:.1f} cycles per hour while you're awake, so treat this as a rough hint, not reassurance.",
+     "detail": "At the start of an apnea the heart slows progressively, and it speeds up abruptly when breathing resumes, so repeated apneas make heart rate cycle. In 862 patients, the heart-rate cycle count from an all-night ECG correlated with the apnea-hypopnea index (r = 0.84), and 15 or more per hour identified moderate-to-severe apnea with 83% sensitivity and 88% specificity. With a wrist-worn watch in 41 patients it correlated at r = 0.81; 11 or more per hour identified moderate-to-severe apnea with 82% sensitivity and 89% specificity. People with moderate-to-severe apnea averaged 19.6 per hour, those without 6.4."
+    },
+    {
+     "groups": [
+      "young_adult",
+      "adult",
+      "older"
+     ],
+     "min": 11,
+     "max": 15,
+     "label": "11-15",
+     "repute": "attention",
+     "magnitude": 2,
+     "headline": "On a typical night your heart rate showed {cvhr_median:.1f} apnea-like cycles per hour in bed: between the cut-off validated with a wrist-worn watch (11) and the one validated with ECG (15). The method isn't validated on Fitbit heart rate (it also finds {cvhr_awake_rate:.1f} per hour while you're awake), so this is a hint worth mentioning to a doctor, not a finding.",
+     "detail": "At the start of an apnea the heart slows progressively, and it speeds up abruptly when breathing resumes, so repeated apneas make heart rate cycle. In 862 patients, the heart-rate cycle count from an all-night ECG correlated with the apnea-hypopnea index (r = 0.84), and 15 or more per hour identified moderate-to-severe apnea with 83% sensitivity and 88% specificity. With a wrist-worn watch in 41 patients it correlated at r = 0.81; 11 or more per hour identified moderate-to-severe apnea with 82% sensitivity and 89% specificity. People with moderate-to-severe apnea averaged 19.6 per hour, those without 6.4."
+    },
+    {
+     "groups": [
+      "young_adult",
+      "adult",
+      "older"
+     ],
+     "min": 15,
+     "label": "15 or more",
+     "repute": "attention",
+     "magnitude": 3,
+     "headline": "On a typical night your heart rate showed {cvhr_median:.1f} apnea-like cycles per hour in bed, above the cut-offs that identified moderate-to-severe sleep apnea with a watch (11) and with ECG (15). The method isn't validated on Fitbit heart rate, but this is worth discussing with a doctor.",
+     "detail": "At the start of an apnea the heart slows progressively, and it speeds up abruptly when breathing resumes, so repeated apneas make heart rate cycle. In 862 patients, the heart-rate cycle count from an all-night ECG correlated with the apnea-hypopnea index (r = 0.84), and 15 or more per hour identified moderate-to-severe apnea with 83% sensitivity and 88% specificity. With a wrist-worn watch in 41 patients it correlated at r = 0.81; 11 or more per hour identified moderate-to-severe apnea with 82% sensitivity and 89% specificity. People with moderate-to-severe apnea averaged 19.6 per hour, those without 6.4."
+    },
+    {
+     "groups": [
+      "teen"
+     ],
+     "label": "adult studies",
+     "repute": "info",
+     "magnitude": 1,
+     "headline": "Your heart rate showed {cvhr_median:.1f} apnea-like cycles per hour in bed. The cut-offs for this method come from studies in adults, so they don't apply to teenagers."
+    }
+   ],
+   "background": "By sleep stage your rate was {cvhr_deep_rate:.1f} per hour in deep sleep, {cvhr_nrem_rate:.1f} in light and deep sleep together, {cvhr_rem_rate:.1f} in REM sleep and {cvhr_awake_rate:.1f} while awake. Apnea doesn't happen while you're awake, so cycles detected then are a measure of how many detections are noise. {cvhr_nights_over_11} of {cvhr_nights} nights reached 11 per hour.",
+   "refs": [
+    "guilleminault1984",
+    "hayano2011",
+    "hayano2020",
+    "hayano2022",
+    "hayano2017"
+   ],
+   "caveat": "Not validated on Fitbit data: the studies used beat-to-beat intervals from an ECG or the watch's pulse wave, while Fitbit gives a heart rate about every 2 seconds. Periodic leg movements can mimic the pattern, the count varies a lot from night to night (a 66% coefficient of variation over a week of ECG recordings), and the watch cut-off came from 41 people. A screening hint, not a measure of apnea.",
+   "basis": "cvhr_nights"
+  },
+  {
+   "id": "hrv-norm",
+   "topic": "Heart",
+   "title": "Heart-rate variability compared with your age group",
+   "metric": "hrv_position",
+   "format": "number",
+   "display": {
+    "metric": "hrv_median",
+    "format": "ms"
+   },
+   "valueLabel": "Typical HRV during sleep (RMSSD)",
+   "groups": [
+    "young_adult",
+    "adult"
+   ],
+   "bands": [
+    {
+     "max": 0,
+     "label": "below {hrv_norm_p25:.0f} ms",
+     "repute": "info",
+     "magnitude": 2,
+     "headline": "Your heart-rate variability ({hrv_median:.1f} ms) is below the 25th percentile of Fitbit users your age ({hrv_norm_p25:.0f} ms; median {hrv_norm_median:.0f} ms). HRV falls with age and differs a lot between people."
+    },
+    {
+     "min": 0,
+     "max": 1,
+     "label": "{hrv_norm_p25:.0f}-{hrv_norm_p75:.0f} ms",
+     "repute": "good",
+     "magnitude": 1,
+     "headline": "Your heart-rate variability ({hrv_median:.1f} ms) is in the middle half of Fitbit users your age ({hrv_norm_p25:.0f}-{hrv_norm_p75:.0f} ms; median {hrv_norm_median:.0f} ms)."
+    },
+    {
+     "min": 1,
+     "label": "above {hrv_norm_p75:.0f} ms",
+     "repute": "good",
+     "magnitude": 1,
+     "headline": "Your heart-rate variability ({hrv_median:.1f} ms) is above the 75th percentile of Fitbit users your age ({hrv_norm_p75:.0f} ms)."
+    }
+   ],
+   "detail": "",
+   "background": "Reference values come from 8.2 million Fitbit users: RMSSD measured in 5-minute windows and summarised per hour, for each year of age. HRV is highest in the early morning and falls with age; for RMSSD there was no significant difference between men and women, so the report uses the average of both. Your deep-sleep HRV was {hrv_deep_median:.1f} ms.",
+   "refs": [
+    "natarajan2020hrv"
+   ],
+   "caveat": "The reference values are for the 06:00-07:00 clock hour, near the daily peak of HRV, while Fitbit's nightly HRV covers your whole sleep, so the comparison is approximate. The values are from the study's preprint supplement.",
+   "basis": "hrv_nights",
+   "minNights": 14
+  },
+  {
+   "id": "resting-hr",
+   "topic": "Heart",
+   "title": "Resting heart rate",
+   "metric": "resting_hr",
+   "format": "bpm",
+   "valueLabel": "Typical resting heart rate",
+   "groups": [
+    "young_adult",
+    "adult",
+    "older"
+   ],
+   "bands": [
+    {
+     "max": 50,
+     "label": "under 50 bpm",
+     "repute": "info",
+     "magnitude": 1,
+     "headline": "Your resting heart rate ({resting_hr:.0f} bpm) is below the range of 95% of 92,457 Fitbit users (men 50-80, women 53-82 bpm)."
+    },
+    {
+     "min": 50,
+     "max": 82.01,
+     "label": "50-82 bpm",
+     "repute": "good",
+     "magnitude": 1,
+     "headline": "Your resting heart rate ({resting_hr:.0f} bpm) is within the range of 95% of 92,457 Fitbit users (men 50-80, women 53-82 bpm; average 65.5)."
+    },
+    {
+     "min": 82.01,
+     "label": "over 82 bpm",
+     "repute": "attention",
+     "magnitude": 2,
+     "headline": "Your resting heart rate ({resting_hr:.0f} bpm) is above the range of 95% of 92,457 Fitbit users (men 50-80, women 53-82 bpm). Worth discussing with a doctor."
+    }
+   ],
+   "background": "In that study a person's daily resting heart rate typically varied by about 3 bpm (standard deviation), and resting heart rate was lowest in people who slept 7 to 7.5 hours a night. Age, sex, BMI and sleep together explained no more than 10% of the differences between people.",
+   "refs": [
+    "quer2020"
+   ],
+   "caveat": "Resting heart rate is your device's own daily estimate.",
+   "basis": "resting_hr_nights"
+  },
+  {
+   "id": "off-nights",
+   "topic": "Recovery",
+   "title": "Nights that stood out",
+   "metric": "off_nights",
+   "format": "number",
+   "valueLabel": "Off nights",
+   "bands": [
+    {
+     "max": 1,
+     "label": "none",
+     "repute": "good",
+     "magnitude": 1,
+     "headline": "No night stood out: on no night did two or more of heart rate, HRV, breathing rate and skin temperature clearly move away from your recent normal."
+    },
+    {
+     "min": 1,
+     "label": "1 or more",
+     "repute": "info",
+     "magnitude": 2,
+     "headline": "{off_nights} nights stood out, with heart rate {off_hr_delta:+.0f} bpm and HRV {off_hrv_delta:+.0f} ms compared with your normal (median). In {off_with_breathing_or_temp_up} of them breathing rate or skin temperature also rose, the signals that typically rise with illness. Heart rate up and HRV down on their own is the pattern seen after drinking alcohol.",
+     "detail": "Illness tends to raise breathing rate and heart rate and to lower HRV, and in 2,745 people with COVID-19 breathing rate showed the largest change and took longest to recover. A rise of 3 or more breaths per minute was seen in 36% of people with symptoms but on only 4% of healthy nights. Resting heart rate rose a median 7 bpm before COVID-19 symptoms, and finger skin temperature rose by about 0.6 °C around symptoms. After alcohol, measured in 4,098 people over the first hours of sleep, heart rate rose by 1.4, 4.0 and 8.7 bpm and RMSSD fell by 2.0, 5.7 and 12.9 ms after low, moderate and high amounts, with stronger effects in younger people."
+    }
+   ],
+   "background": "Open the off nights from the HRV chart or the nights table to see each signal against your normal.",
+   "refs": [
+    "natarajan2020covid",
+    "natarajan2021",
+    "mishra2020",
+    "smarr2020",
+    "pietila2018"
+   ],
+   "caveat": "The thresholds are this report's own: a night counts as off when at least two signals are more than 2 robust standard deviations away from your previous 28 nights, in the direction illness or alcohol push them. The studies used other methods, and late heavy meals, stress or hard exercise can have similar effects.",
+   "minNights": 28
+  },
+  {
+   "id": "anxiety-hrv",
+   "topic": "Mood & mental health",
+   "title": "Anxiety, sleep and heart-rate variability",
+   "repute": "info",
+   "magnitude": 1,
+   "headline": "People with an anxiety disorder have somewhat lower heart-rate variability on average than people without one, and poor sleep and anxiety tend to feed each other. The differences are small, and your HRV can't tell whether you have anxiety.",
+   "detail": "A meta-analysis of 36 studies (2,086 people with an anxiety disorder, 2,294 without) found lower high-frequency HRV in anxiety disorders, a small effect (Hedges' g -0.29), seen in panic disorder, PTSD, generalised anxiety and social anxiety but not obsessive-compulsive disorder. Time-domain measures, mostly RMSSD, were also lower (g -0.45) once one large outlying study was excluded; with it the difference wasn't significant. A systematic review of 9 mostly longitudinal studies concluded that the best available evidence suggests insomnia is related to anxiety and depression in both directions, while noting that definitive conclusions can't be made for most sleep problems.",
+   "refs": [
+    "chalmers2014",
+    "alvaro2013"
+   ],
+   "caveat": "These are average differences between people diagnosed with an anxiety disorder and healthy people, measured with clinical ECG, not wrist trackers. Many things affect HRV, including age and alcohol (see the heart findings in this report). If you often feel anxious, worried or low, or sleep problems come with low mood, talk to your GP."
+  },
+  {
+   "id": "insomnia-depression",
+   "topic": "Mood & mental health",
+   "title": "Trouble sleeping and later depression",
+   "metric": "pct_latency_over_30",
+   "format": "pct",
+   "valueLabel": "Nights taking over 30 min to fall asleep",
+   "repute": "info",
+   "magnitude": 1,
+   "headline": "In people who weren't depressed, insomnia roughly doubled the risk of developing depression later. In your data it took more than 30 minutes to fall asleep on {pct_latency_over_30:.0f}% of nights; whether that is insomnia depends on how you experience your sleep, which a tracker can't measure.",
+   "detail": "A meta-analysis of 21 longitudinal studies found an odds ratio of 2.60 (1.98-3.42) for insomnia predicting depression, and 2.10 (1.86-2.38) once outlying studies were removed. The studies didn't always account for other factors.",
+   "refs": [
+    "baglioni2011",
+    "alvaro2013"
+   ],
+   "caveat": "Insomnia is diagnosed from what you report (difficulty falling or staying asleep, with daytime effects), not from tracker data. If you often feel anxious, worried or low, or sleep problems come with low mood, talk to your GP.",
+   "basis": "slept_nights"
+  },
+  {
+   "id": "timing-depression",
+   "topic": "Mood & mental health",
+   "title": "Late sleep timing and depression",
+   "metric": "midsleep_h",
+   "format": "clock",
+   "valueLabel": "Typical mid-point of sleep",
+   "groups": [
+    "young_adult",
+    "adult",
+    "older"
+   ],
+   "bands": [
+    {
+     "max": 10,
+     "label": "before 04:00",
+     "repute": "info",
+     "magnitude": 1,
+     "headline": "In a genetic study of nearly 840,000 adults, a tendency toward earlier sleep timing was linked to a lower risk of major depression: 23% lower per hour earlier mid-point of sleep. Your mid-point of sleep is {midsleep_clock}."
+    },
+    {
+     "min": 10,
+     "label": "04:00 or later",
+     "repute": "info",
+     "magnitude": 2,
+     "headline": "In a genetic study of nearly 840,000 adults, a tendency toward earlier sleep timing was linked to a lower risk of major depression: 23% lower per hour earlier mid-point of sleep. Your mid-point of sleep ({midsleep_clock}) is much later than that study's average of 03:00, and its authors say the effect may not apply to such extremes, such as delayed sleep phase."
+    }
+   ],
+   "detail": "The study used Mendelian randomisation: genetic variants that make people prefer mornings, scaled to an accelerometer-measured mid-point of sleep (average 03:00, standard deviation 0.91 h, in 85,502 people), compared across 170,756 people with major depression and 329,443 without. The odds ratio was 0.77 (0.63-0.94) per hour earlier. Because genes act over a lifetime, the authors note the result may not reflect what a shorter-term change in sleep timing would do. In a meta-analysis of 36 questionnaire studies (15,734 people), an evening preference went with somewhat more depressive symptoms (a small association, Fisher's z -0.20).",
+   "refs": [
+    "daghlas2021",
+    "au2017"
+   ],
+   "caveat": "These are population-level associations, mostly in people of European ancestry; they don't say anything about your own mood. If you often feel low or have lost interest in things, talk to your GP.",
+   "skip_if": [
+    "shiftWork"
+   ]
+  },
+  {
+   "id": "onset-before-2am",
+   "topic": "Mood & mental health",
+   "title": "Falling asleep before 02:00",
+   "metric": "pct_workdays_onset_20_02",
+   "format": "pct",
+   "valueLabel": "Nights before a workday you fell asleep between 20:00 and 02:00",
+   "groups": [
+    "young_adult",
+    "adult",
+    "older"
+   ],
+   "bands": [
+    {
+     "max": 93.5,
+     "label": "below 93.5%",
+     "repute": "attention",
+     "magnitude": 2,
+     "headline": "On {pct_workdays_onset_20_02:.0f}% of nights before a workday you fell asleep between 20:00 and 02:00. In 6,785 Fitbit users the median was 93.5%, and people below it had 70% higher odds of being diagnosed with major depression."
+    },
+    {
+     "min": 93.5,
+     "label": "93.5% or more",
+     "repute": "good",
+     "magnitude": 1,
+     "headline": "On {pct_workdays_onset_20_02:.0f}% of nights before a workday you fell asleep between 20:00 and 02:00: at or above the median of 6,785 Fitbit users, among whom people below the median had higher odds of depression."
+    }
+   ],
+   "detail": "The study linked 4.5 years (median) of Fitbit data from 6,785 participants of the All of Us Research Program to their health records (median age 50, 71% women). It counted the share of weekdays with sleep onset in 'traditional' hours, 20:00 to 02:00 (median 93.5%). Compared with people above the median, those below it had an odds ratio of 1.70 (1.42-2.03) for major depressive disorder, and higher odds of insomnia (1.74) and high blood pressure (1.60). A UK Biobank study of 73,888 middle-aged and older adults, with sleep timed by a research accelerometer, found more depression and anxiety in people who slept late whatever their own preference: evening types who slept early had a lower risk of depression than evening types who slept late. Its authors suggest falling asleep before 01:00, a cut-off they present as a hypothesis. You fell asleep after 01:00 on {pct_onset_after_01:.0f}% of all your nights.",
+   "background": "Your typical sleep onset is {bedtime_clock}. Nights before a workday are the evenings before days that aren't days off in your settings.",
+   "refs": [
+    "zheng2024",
+    "lok2024"
+   ],
+   "caveat": "Observational: low mood can push sleep later as well as the other way round, and people who sleep late may differ in other ways. Most participants in both studies were middle-aged or older; whether the same holds for young adults isn't known. The Fitbit study counted weekdays; this report counts evenings before the days that aren't off in your settings. If you often feel low or have lost interest in things, talk to your GP.",
+   "skip_if": [
+    "shiftWork"
+   ]
+  },
+  {
+   "id": "variability-mood",
+   "topic": "Mood & mental health",
+   "title": "Irregular sleep and mood",
+   "metric": "wake_sd_h",
+   "format": "hours",
+   "valueLabel": "Night-to-night spread of wake-up time",
+   "groups": [
+    "young_adult",
+    "adult"
+   ],
+   "bands": [
+    {
+     "max": 1.74,
+     "label": "up to 1 h 44 min",
+     "repute": "good",
+     "magnitude": 1,
+     "headline": "Your wake-up time varies about as much as, or less than, it did for junior doctors before their internship started, in a Fitbit study where more variable sleep went with more depressive symptoms and lower next-day mood."
+    },
+    {
+     "min": 1.74,
+     "label": "over 1 h 44 min",
+     "repute": "attention",
+     "magnitude": 2,
+     "headline": "Your wake-up time varies more from night to night ({wake_sd_h:.1f} h standard deviation) than it did for junior doctors before their internship started (1 h 44 min), in a Fitbit study where more variable wake-up times and sleep durations went with more depressive symptoms and lower next-day mood."
+    }
+   ],
+   "detail": "In 2,115 interns wearing a Fitbit Charge 2, the night-to-night standard deviation of sleep time was associated with depressive symptoms even with average sleep time taken into account, and variability in sleep time and wake-up time was associated with lower mood the next day. Before the internship the typical spreads were 1 h 15 min for sleep time, 1 h 39 min for bedtime and 1 h 44 min for wake-up time. The amount of variation in depressive symptoms explained by sleep variability was small, and the authors note the design precludes conclusions about causality.",
+   "background": "Your spreads: {asleep_sd_h:.1f} h for time asleep, {bedtime_sd_h:.1f} h for bedtime and {wake_sd_h:.1f} h for wake-up time (standard deviations).",
+   "refs": [
+    "fang2021"
+   ],
+   "caveat": "The interns' reference values come from only about 17 days of recording before a demanding job; the study's sleep time included naps, while this report's spread of time asleep counts main sleeps only. The bands are this report's own. If you often feel low or have lost interest in things, talk to your GP.",
+   "skip_if": [
+    "shiftWork"
+   ],
+   "minNights": 14
+  },
+  {
+   "id": "sleep-duration-spread",
+   "topic": "Mood & mental health",
+   "title": "Night-to-night spread of sleep length",
+   "metric": "asleep_sd_h",
+   "format": "hours",
+   "valueLabel": "Night-to-night spread of time asleep (standard deviation)",
+   "groups": [
+    "young_adult",
+    "adult",
+    "older"
+   ],
+   "bands": [
+    {
+     "max": 1,
+     "label": "under 1 h",
+     "repute": "info",
+     "magnitude": 1,
+     "headline": "How long you sleep varies by {asleep_sd_h:.1f} h from night to night (standard deviation). In 6,785 Fitbit users followed for years, a larger spread went with higher odds of depression, anxiety and bipolar disorder, even with average sleep length taken into account."
+    },
+    {
+     "min": 1,
+     "label": "1 h or more",
+     "repute": "attention",
+     "magnitude": 2,
+     "headline": "How long you sleep varies by {asleep_sd_h:.1f} h from night to night (standard deviation). In 6,785 Fitbit users followed for years, each extra hour of spread went with 75% higher odds of a depression diagnosis, and also with anxiety and bipolar disorder, even with average sleep length taken into account."
+    }
+   ],
+   "detail": "The study linked 4.5 years (median) of Fitbit data from 6,785 participants of the All of Us Research Program to their health records (median age 50, 71% women). The spread was the standard deviation of daily main-sleep duration in hours, the same measure as here. Per hour of spread, the odds ratios were 1.75 (1.52-2.01) for major depressive disorder, 1.55 (1.35-1.78) for anxiety disorder and 2.27 (1.65-3.11) for bipolar disorder, adjusted for age, sex, daily steps and length of health record; the spread was also linked to high blood pressure, obesity and sleep apnea. 23 of 24 of these links held after adjusting for average sleep duration. In a stricter analysis that followed people over time, the 75th compared with the 25th percentile of spread went with a hazard ratio of 1.17 (0.96-1.42) for new depression, which wasn't statistically clear.",
+   "background": "Your typical time asleep is {asleep_h:.1f} h. The spread counts your main sleep of every recorded night; naps aren't included.",
+   "refs": [
+    "zheng2024"
+   ],
+   "caveat": "Observational: irregular sleep can follow from low mood as well as lead to it. The study reported odds per hour of spread, not cut-offs; the bands are this report's own. Participants were healthier and wealthier than average, and most were older than 35. If you often feel low or have lost interest in things, talk to your GP.",
+   "skip_if": [
+    "shiftWork"
+   ],
+   "basis": "slept_nights",
+   "minNights": 14
+  },
+  {
+   "id": "short-sleep-performance",
+   "topic": "Mood & mental health",
+   "title": "Short nights and how alert you are",
+   "metric": "pct_nights_under_6h",
+   "format": "pct",
+   "valueLabel": "Nights under 6 h asleep",
+   "bands": [
+    {
+     "max": 10,
+     "label": "under 10%",
+     "repute": "good",
+     "magnitude": 1,
+     "headline": "Short nights (under 6 hours asleep) are rare for you. In a laboratory study, people restricted to 6 hours or less for two weeks performed as badly as after up to two nights without sleep."
+    },
+    {
+     "min": 10,
+     "max": 30,
+     "label": "10-30%",
+     "repute": "attention",
+     "magnitude": 2,
+     "headline": "{pct_nights_under_6h:.0f}% of your nights are under 6 hours asleep. In a laboratory study, restricting sleep to 6 hours or less for two weeks built up deficits in attention and thinking equivalent to up to two nights without sleep, while people's own sleepiness ratings suggested they were largely unaware of it."
+    },
+    {
+     "min": 30,
+     "label": "30% or more",
+     "repute": "attention",
+     "magnitude": 3,
+     "headline": "{pct_nights_under_6h:.0f}% of your nights are under 6 hours asleep. In a laboratory study, restricting sleep to 6 hours or less for two weeks built up deficits in attention and thinking equivalent to up to two nights without sleep, while people's own sleepiness ratings suggested they were largely unaware of it."
+    }
+   ],
+   "detail": "48 healthy adults aged 21-38 were randomised to 4, 6 or 8 hours in bed for 14 consecutive days, or 3 nights without sleep. The 4 and 6 hour groups developed cumulative, dose-dependent deficits on all tasks. Sleepiness ratings rose at first and then only a little further, and didn't distinguish 6 from 4 hours.",
+   "background": "Your short nights came at most {max_short_run:.0f} in a row, while the deficits in the study built up over 14 consecutive nights.",
+   "refs": [
+    "vandongen2003"
+   ],
+   "caveat": "The study restricted time in bed; this report counts time asleep, which is shorter than time in bed. The bands are this report's own.",
+   "basis": "slept_nights"
+  },
+  {
+   "id": "irregular-sleep-heart",
+   "topic": "Heart",
+   "title": "Irregular sleep and heart disease",
+   "metric": "onset_sd7_min",
+   "format": "min",
+   "valueLabel": "Typical spread of sleep-onset time within a week",
+   "groups": [
+    "young_adult",
+    "adult",
+    "older"
+   ],
+   "bands": [
+    {
+     "max": 31,
+     "label": "30 min or less",
+     "repute": "good",
+     "magnitude": 1,
+     "headline": "Within a week, the time you fall asleep typically varies by {onset_sd7_min:.0f} minutes (standard deviation): as regular as the group with the lowest risk of cardiovascular events in a large cohort study.",
+     "detail": "In 1,992 adults without heart disease who wore a research actigraph for 7 days, followed for a median of 4.9 years, the risk of cardiovascular events (heart attack, stroke, cardiac death and related events) rose with the 7-day spread of sleep-onset time: compared with 30 minutes or less, the adjusted hazard ratio was 1.16 for 31-60 minutes, 1.52 for 61-90 minutes and 2.11 for more than 90 minutes; only the last was statistically significant. The association persisted after adjusting for average sleep duration."
+    },
+    {
+     "min": 31,
+     "max": 61,
+     "label": "31-60 min",
+     "repute": "info",
+     "magnitude": 1,
+     "headline": "Within a week, the time you fall asleep typically varies by {onset_sd7_min:.0f} minutes (standard deviation). In a large cohort study this group's risk of cardiovascular events wasn't clearly higher than that of the most regular sleepers.",
+     "detail": "In 1,992 adults without heart disease who wore a research actigraph for 7 days, followed for a median of 4.9 years, the risk of cardiovascular events (heart attack, stroke, cardiac death and related events) rose with the 7-day spread of sleep-onset time: compared with 30 minutes or less, the adjusted hazard ratio was 1.16 for 31-60 minutes, 1.52 for 61-90 minutes and 2.11 for more than 90 minutes; only the last was statistically significant. The association persisted after adjusting for average sleep duration."
+    },
+    {
+     "min": 61,
+     "max": 91,
+     "label": "61-90 min",
+     "repute": "info",
+     "magnitude": 2,
+     "headline": "Within a week, the time you fall asleep typically varies by {onset_sd7_min:.0f} minutes (standard deviation). In a large cohort study, people in this range had a higher estimated risk of cardiovascular events than the most regular sleepers (hazard ratio 1.52), though not statistically clear; above 90 minutes the risk was about twice as high. {pct_weeks_onset_sd_over_90:.0f}% of your weeks were above 90 minutes.",
+     "detail": "In 1,992 adults without heart disease who wore a research actigraph for 7 days, followed for a median of 4.9 years, the risk of cardiovascular events (heart attack, stroke, cardiac death and related events) rose with the 7-day spread of sleep-onset time: compared with 30 minutes or less, the adjusted hazard ratio was 1.16 for 31-60 minutes, 1.52 for 61-90 minutes and 2.11 for more than 90 minutes; only the last was statistically significant. The association persisted after adjusting for average sleep duration."
+    },
+    {
+     "min": 91,
+     "label": "over 90 min",
+     "repute": "attention",
+     "magnitude": 2,
+     "headline": "Within a week, the time you fall asleep typically varies by {onset_sd7_min:.0f} minutes (standard deviation). In a large cohort study, people whose sleep-onset time varied by more than 90 minutes had about twice the risk of cardiovascular events (hazard ratio 2.11) of those within 30 minutes.",
+     "detail": "In 1,992 adults without heart disease who wore a research actigraph for 7 days, followed for a median of 4.9 years, the risk of cardiovascular events (heart attack, stroke, cardiac death and related events) rose with the 7-day spread of sleep-onset time: compared with 30 minutes or less, the adjusted hazard ratio was 1.16 for 31-60 minutes, 1.52 for 61-90 minutes and 2.11 for more than 90 minutes; only the last was statistically significant. The association persisted after adjusting for average sleep duration."
+    }
+   ],
+   "background": "Your time asleep typically varies by {asleep_sd7_min:.0f} minutes within a week. In the same study, a spread of sleep duration over 120 minutes went with a hazard ratio of 2.14 (91-120 minutes: 1.59, not statistically significant).",
+   "refs": [
+    "huang2020"
+   ],
+   "caveat": "Participants were 45 to 84 years old when the cohort started, so the study can't say what this means for younger people. It's observational: the authors note reverse causation and unmeasured confounding can't be excluded. The study used 7 days of research actigraphy; this report uses the median of all your 7-night windows from your tracker.",
+   "minNights": 14
+  },
+  {
+   "id": "short-sleep-colds",
+   "topic": "Recovery",
+   "title": "Short sleep and catching a cold",
+   "metric": "pct_weeks_under_6h",
+   "format": "pct",
+   "valueLabel": "Weeks averaging under 6 h asleep",
+   "groups": [
+    "young_adult",
+    "adult"
+   ],
+   "bands": [
+    {
+     "max": 0.01,
+     "label": "none",
+     "repute": "good",
+     "magnitude": 1,
+     "headline": "In none of your weeks did your sleep average under 6 hours, the level at which volunteers exposed to a cold virus got sick about four times as often as those sleeping more than 7 hours. {pct_weeks_6_to_7h:.0f}% of your weeks averaged 6 to 7 hours, where the risk wasn't clearly higher.",
+     "detail": "164 healthy adults aged 18 to 55 wore a wrist actigraph for 7 nights, then were quarantined, given nasal drops with a common cold virus and followed for 5 days. A clinical cold meant infection plus objective signs of illness. Compared with sleeping more than 7 hours, the odds of a cold were 4.50 times higher with under 5 hours and 4.24 times higher with 5 to 6 hours; 6 to 7 hours carried no clearly higher risk (1.66, not significant). This held independent of prior antibody levels, demographics, season, BMI, psychological factors and health practices; how fragmented sleep was didn't matter."
+    },
+    {
+     "min": 0.01,
+     "label": "1% or more",
+     "repute": "attention",
+     "magnitude": 2,
+     "headline": "In {pct_weeks_under_6h:.0f}% of your weeks your sleep averaged under 6 hours. Volunteers exposed to a cold virus after a week like that got sick about four times as often as those sleeping more than 7 hours.",
+     "detail": "164 healthy adults aged 18 to 55 wore a wrist actigraph for 7 nights, then were quarantined, given nasal drops with a common cold virus and followed for 5 days. A clinical cold meant infection plus objective signs of illness. Compared with sleeping more than 7 hours, the odds of a cold were 4.50 times higher with under 5 hours and 4.24 times higher with 5 to 6 hours; 6 to 7 hours carried no clearly higher risk (1.66, not significant). This held independent of prior antibody levels, demographics, season, BMI, psychological factors and health practices; how fragmented sleep was didn't matter."
+    }
+   ],
+   "refs": [
+    "prather2015"
+   ],
+   "caveat": "A small study with wide confidence intervals. The authors note it doesn't provide direct evidence of causality, although sleep was measured before the virus, which rules out reverse causation."
+  },
+  {
+   "id": "apple-device",
+   "topic": "About the device",
+   "title": "What an Apple Watch can and can't measure here",
+   "sources": [
+    "apple"
+   ],
+   "repute": "info",
+   "magnitude": 2,
+   "headline": "An Apple Watch records sleep stages, breathing rate, wrist temperature and resting heart rate well enough for most of this report. It measures blood oxygen only now and then and heart rate every few minutes during sleep, so oxygen dips, heart-rate surges and apnea-like heart-rate cycles can't be counted, and its HRV (SDNN) can't be compared with the RMSSD reference values.",
+   "detail": "The watch decides when it measures blood oxygen and heart rate; apps can't change that. Apple's own sleep apnea notifications use a different signal (breathing disturbances estimated from wrist movement), shown separately in this report when your export contains it.",
+   "refs": [],
+   "caveat": "Apple Watch support in this report has so far been tested only on a generated export."
+  },
+  {
+   "id": "apple-breathing-disturbances",
+   "topic": "Breathing & oxygen",
+   "title": "Apple's breathing disturbances",
+   "sources": [
+    "apple"
+   ],
+   "metric": "breathing_disturbances_median",
+   "format": "number",
+   "valueLabel": "Typical nightly breathing disturbances (Apple)",
+   "repute": "info",
+   "magnitude": 2,
+   "headline": "Your Apple Watch estimates breathing disturbances from wrist movement during sleep; your typical night's value was {breathing_disturbances_median:.1f}. Apple's sleep apnea notification checks these values over 30 days and notifies you when they're elevated on at least half the nights; the Health app shows whether that happened.",
+   "detail": "Apple tuned the notification to avoid false alarms. In the FDA validation cohort it detected 66.3% of moderate-to-severe sleep apnea (sensitivity) and correctly stayed silent for 98.5% of people with normal or mild results (specificity); in Apple's own test set the figures were 66.6% and 95.9%. It needs at least 10 nights with a value in the 30-day window.",
+   "refs": [
+    "apple2024",
+    "fda_k240929"
+   ],
+   "caveat": "About a third of moderate-to-severe cases go unnoticed, and the FDA clearance states the feature isn't intended to diagnose sleep apnea. This report doesn't know Apple's threshold for 'elevated', so it doesn't flag your values itself."
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+# credentials - never commit
+client_secret.json
+token.json
+
+# your health data and the graphs made from it
+data/
+reports/
+
+__pycache__/
+*.pyc
+*.tmp.png
+
+# personal settings (age, schedule)
+settings.json
+
+# Python packaging and tests
+*.egg-info/
+build/
+.pytest_cache/
+.ruff_cache/
+
+# research notes behind reports/
+research_notes/

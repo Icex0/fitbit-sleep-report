@@ -1,0 +1,5 @@
+node_modules/
+dist/
+# your health data, written by `python -m sleep_report export`
+public/data/
+*.tsbuildinfo

@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sleep-report"
+version = "1.0.0"
+description = "Sleep, blood-oxygen and heart-rate report from a Fitbit, Pixel Watch or Apple Watch, linked to published research"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "matplotlib>=3.8",
+    "numpy>=1.26",
+    "requests>=2.31",
+]
+
+[project.scripts]
+sleep-report = "sleep_report.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["sleep_report*"]
+
+[tool.setuptools.package-data]
+sleep_report = ["literature.json"]
+
+[tool.ruff]
+line-length = 130
+target-version = "py311"
