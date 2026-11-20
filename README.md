@@ -160,8 +160,6 @@ Everything goes into `reports/`:
 | `sleep-diary.png` | Every night on one row, 18:00 to 18:00, coloured by sleep stage |
 | `summary.png` | Across all nights: time asleep per stage, SpO2 dips and level, heart-rate surges, sleeping heart rate and breathing rate |
 
-![Example sleep diary](docs/example-diary.png)
-
 ### The table
 
 ```
@@ -207,6 +205,16 @@ Run `python -m sleep_report export` again after every `fetch` and reload the pag
 | **Night** | One night: sleep stages with brief awakenings, SpO2, and heart rate on one time axis with a shared crosshair, plus a list of events. |
 | **Summary** | Everything at a glance on a few printable pages: your details, what stands out, measurements against reference values, the sleep diary, limitations and sources. Print it or save it as PDF from the page. |
 | **Literature** | The literature report: one entry per finding with your value, a magnitude (0–4, how much it's worth reading), a flag (attention / favourable / context), the evidence, and numbered references with PubMed and DOI links. |
+
+The Overview's results table: each measure against the reference from the literature, with a flag and a note
+(the first of its groups; the full table also covers heart, recovery, naps, sleep quality and mood).
+
+![Overview results table](docs/app-results.png)
+
+The sleep diary: every night on one row, 18:00 to 18:00, coloured by sleep stage, with naps on the row
+of the night they precede.
+
+![Sleep diary in the app](docs/app-diary.png)
 
 The app follows your system's light or dark setting; the button in the top right switches between
 auto, light and dark. It prints cleanly as a report.

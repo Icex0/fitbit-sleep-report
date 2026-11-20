@@ -2067,7 +2067,16 @@
     },
     {
      "min": 1,
-     "label": "1 or more",
+     "label": "1",
+     "repute": "info",
+     "magnitude": 2,
+     "headline": "One night stood out, with heart rate {off_hr_delta:+.0f} bpm and HRV {off_hrv_delta:+.0f} ms compared with your normal (median). If breathing rate or skin temperature also rose that night, that's the pattern typical of illness; heart rate up and HRV down on their own is the pattern seen after drinking alcohol.",
+     "detail": "Illness tends to raise breathing rate and heart rate and to lower HRV, and in 2,745 people with COVID-19 breathing rate showed the largest change and took longest to recover. A rise of 3 or more breaths per minute was seen in 36% of people with symptoms but on only 4% of healthy nights. Resting heart rate rose a median 7 bpm before COVID-19 symptoms, and finger skin temperature rose by about 0.6 °C around symptoms. After alcohol, measured in 4,098 people over the first hours of sleep, heart rate rose by 1.4, 4.0 and 8.7 bpm and RMSSD fell by 2.0, 5.7 and 12.9 ms after low, moderate and high amounts, with stronger effects in younger people.",
+     "max": 2
+    },
+    {
+     "min": 2,
+     "label": "2 or more",
      "repute": "info",
      "magnitude": 2,
      "headline": "{off_nights} nights stood out, with heart rate {off_hr_delta:+.0f} bpm and HRV {off_hrv_delta:+.0f} ms compared with your normal (median). In {off_with_breathing_or_temp_up} of them breathing rate or skin temperature also rose, the signals that typically rise with illness. Heart rate up and HRV down on their own is the pattern seen after drinking alcohol.",
